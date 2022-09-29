@@ -1,0 +1,219 @@
+c:\users\mavhera\documents\visual studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\Mavhera\Documents\Visual Studio 2013\Projects\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\Mavhera\Desktop\Kuziva Comps Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AID_Data.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AID_Data.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\Mavhera\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AID_Data.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\User\Desktop\Xul Stuff\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AID_Data.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\Kuziva\Desktop\Xool\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AID_Data.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.manifest
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.application
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe.manifest
+C:\Users\Kuziva\Documents\Official Project\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.application
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 0340\Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 0340\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 0340\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 0340\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.manifest
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.application
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AID_Data.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe.manifest
+C:\Users\Kuziva\Documents\KUZIVAKWASHE R MAVERA 3040\Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.application
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.manifest
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.application
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AID_Data.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe.manifest
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.application
+C:\Users\Kuziva\Documents\Kuziva Documents\Mavera Kuziva Final Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Main_Menu.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.config
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe.manifest
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.application
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.exe
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.pdb
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\bin\Debug\Kuziva Comps Project.xml
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbprojResolveAssemblyReference.cache
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Main_Menu.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.About_us.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Assistance_Form.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AID_Data.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.HIV_and_AIDS_Counsel.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Other_options.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Patient_Registration.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Payments_Form.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Profile_Update.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Thank_you.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Welcome_Form.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Login_Form.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Resources.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva_Comps_Project.Sign_Up.resources
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.vbproj.GenerateResource.Cache
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.exe.manifest
+C:\Users\Kuziva\Documents\Kuziva Documents\Kuzivakwashe Mavera R Jnr Solution\Kuziva Comps Project\obj\Debug\Kuziva Comps Project.application

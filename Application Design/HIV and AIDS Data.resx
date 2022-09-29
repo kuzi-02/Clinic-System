@@ -1,0 +1,4744 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>
+COUNSELING FOR
+HIV/AIDS
+The National Guidelines
+National AIDS Control Programme Joint UN Programme on HIV/AIDS
+National Institute of Health Zimbabwe
+Cleveland Clinic
+Counselling for HIV/AIDS 1
+PREFACE
+Ever since the beginning of AIDS epidemic in 1981, the number of people infected and
+affected by HIV/AIDS is on the rise. During the course of infection, a broad range of
+physical, social and psychological needs and problems is experienced. Changing nature of
+the illness imposes a variety of psychological and emotional strains on individuals and those
+closest to them. Taking into account the dilemmas associated with it, the effects of HIV epidemic
+are enormous. AIDS, in fact, is seen more as a psychosocial phenomenon than a disease.
+HIV/AIDS counselling assists people to make informed decisions, cope better with their
+condition, lead more positive lives, and prevent HIV transmission. HIV/AIDS counselling is
+important because infection with HIV is life long. Role of counselling in HIV/AIDS is perhaps
+more important than in any other disease.
+Existence of standard guidelines for the people involved in HIV/AIDS prevention and control
+activities ensures that all efforts being made for the purpose are well coordinated and in right
+direction. Moreover, it is important to have guidelines written in the context of one's own culture,
+financial and resource constraints and prevailing socio-medical standards. Counselling is actually
+a highly specialized field and very little is available in Pakistan on the subject, particularly in the
+context of HIV/AIDS. The in hand knowledge is, therefore, required to be regularly updated and
+disseminated to those who are in need of it.
+Keeping this in view and for a systematic dissemination of the available knowledge to the
+concerned professionals, National AIDS Control Programme (NACP) and Joint United Nations
+Programme on HIV/AIDS (UNAIDS) Pakistan decided to develop national guidelines on
+Counselling for HIV/AIDS. These guidelines have been developed and reviewed by renowned
+practicing experts in their work field.
+Purpose of the counselling guidelines is to provide an in-depth knowledge on the subject to the
+clinicians, laboratory professionals, psychiatrists and the social workers, both in the public as well
+as private sectors, that would help them to manage HIV/AIDS and prevent its further spread.
+The guidelines describe the role and mechanism of counselling in different circumstances that
+are likely to be experienced by the people involved in AIDS prevention activities in one way or
+the other. The readers desirous of detailed information may consult the guidelines on Clinical
+Management and HIV Antibody Testing developed by the NACP and UNAIDS Pakistan.
+Although a great effort has been put in to ensure a really useful and practicable manuscript yet
+there would be ample space for improvement, since the exercise has been carried out for the first
+time in Pakistan. Any suggestion, guidance and critique from the working specialists would be
+warmly welcome as it remains the main tool to enhance the quality of this manuscript in the years
+to come.
+(Dr. Athar Saeed DIl)
+Executive Director &amp; National Coordinator
+August, 2001
+E
+Counselling for HIV/AIDS 3
+ACKNOWLEDGEMENTS
+he National AIDS Control Programme and UNAIDS Pakistan gratefully acknowledge
+the work done by Dr. Elizabeth Lindsey, a short term WHO Consultant who developed
+the basic format of these guidelines. Contributions of Dr. Aftab Asif, the co-author, are
+also highly appreciated who did the laborious work of adaptation in context of the prevailing
+socio-economic norms in Pakistan. Similarly, the inputs from the experts, listed at annexures
+I &amp; II, involved in review, consensus building and pre-testing work are also gratefully
+acknowledged.
+The Provincial AIDS Control Programmes actively participated in the development process
+of these guidelines for which the NACP and UNAIDS are greatly indebted. Dr. Rana
+Muhammad Safdar, Dr. Najma Lalji, Dr. Hassan Orooj, Dr. Asma Bokhari and Dr. Aysha
+Asad of the NACP/UNAIDS managed all basic work, arranged workshops and rendered
+most valuable services for the development and publishing of the guidelines. Their hard work
+and useful inputs are acknowledged and endorsed with great pleasure.
+The Programme is indebted for the organizational assistance of UNAIDS Pakistan
+Secretariat, Islamabad. The continuous support, professional inputs and great deal of
+personal interest and guidance by Dr. Kristan K. Schoultz, Country Programme Advisor
+UNAIDS Pakistan has been beyond measure throughout the process.
+The National AIDS Control Programme owes a lot and is thankful to the Federal Secretary
+Health, Director General Health and the Executive Director NIH for their kind patronage.
+Their guidance, continuous support and encouragement for the Programme are most
+sincerely acknowledged.
+(Dr. Birjees Mazher Kazi)
+National Programme Manager
+August, 2001
+T
+Counselling for HIV/AIDS 4
+CONTENTS
+CHAPTER 1: NTRODUCTION 1
+Global Situation 1
+HIV/AIDS in Pakistan 1
+What is HIV/AIDS? 1
+HIV Transmission 2
+Natural History of HIV Infection 2
+CHAPTER 2: THE PURPOSE OF COUNSELLING 4
+Rationale for HIV Counselling 4
+Who Should Become HIV Counsellors? 5
+Who Should Receive HIV Counselling? 5
+Where Should HIV Counselling Take Place? 5
+Confidentiality and Informed Consent 6
+CHAPTER 3: BARRIERS TO EFFECTIVE HIV COUNSELLING 7
+Strategies to Confront Biases, Beliefs, Values and Assumptions 7
+Culture and Tradition
+CHAPTER 4: PSYCHOSOCIAL ASPECTS OF HIV COUNSELLING 10
+Psychological Stress of HIV/AIDS 10
+Shock 10
+Denial 10
+Anger 10
+Fear 11
+Isolation 11
+Loss 11
+Grief 11
+Guilt 12
+Depression 12
+Anxiety 12
+Loss of Self Esteem 12
+Suicidal Thought and Actions 12
+Hypochondria 13
+Spiritual Concerns 13
+Additional Complications 13
+Counselling for HIV/AIDS 5
+CHAPTER 5: COUNSELLING SKILLS AND RESOURCES 14
+Stages of the Counselling Relationship 15
+Effective Interpersonal Communication Skills 15
+Common Errors in Counselling 17
+Non-verbal Communication 17
+Introducing Sensitive Topics 18
+Crisis Counselling 19
+Problem-solving Counselling 20
+Decision-making Counselling 21
+Developing Adequate Resource Networks 21
+Self-help Peer Groups 21
+CHAPTER 6: V0LUNTARY HIV TESTING AND COUNSELLING (VCT) 23
+Antibody Testing 24
+Antibody Tests
+False positive test results
+False negative test results
+Pre-test Counselling 25
+Components of pre-test counselling
+Benefits of pre-test counselling
+Post-test Counselling 28
+HIV-positive test result counselling
+HIV-negative test result counselling
+Counselling after an equivocal test, or a positive first test 33
+when a second test should be performed
+Continued Counselling and Support 33
+Bereavement Counselling 34
+CHAPTER 7: COUNSELLING AND EDUCATION 35
+Behavioural Change 35
+The use of Condoms 36
+Male condom
+Female condom
+Other barrier methods
+Injecting Drug Users and Other Mood Altering Drugs 37
+Promoting use of sterile equipment
+Harm reduction
+Other mood altering drugs
+Blood Safety 38
+Minimizing the risk of HIV-infected Blood Transfusions
+Selecting blood donors
+Benefits of VCT in blood testing services
+Counselling for HIV/AIDS 6
+Skin Piercing Practices 41
+CHAPTER 8: POPULATIONS WITH SPECIAL NEEDS 42
+The Vulnerability of Women 42
+Biological vulnerability
+Social and economic vulnerability
+Traditional norms and values
+Lack of education
+Sexual customs &amp; norms
+Lack of economic opportunities
+Lack of control in relationships
+STDs and HIV
+HIV and prostitution
+The Counsellor's Role in Fostering Empowerment 43
+Combating ignorance
+Ensuring women have access to appropriate care
+Building safer cultural norms
+Reinforcing women's economic independence
+Mother to Child Transmission 44
+Counselling Women . 44
+Couple and Family Counselling 44
+CHAPTER 9: STRATEGIES TO INTRODUCE AND SUPPORT
+HIV COUNSELLING SERVICES 46
+Elements for Effective VCT Services
+Care for the Caregiver
+LIST OF TABLES
+Table 1: HIV Pre-test Counselling Checklist 26
+Table 2: HIV Post-test Counselling Checklist-positive result 29
+Table 3: HIV Post-test Counselling Checklist-negative result 33
+Table 4: HIV Counselling Checklist in Pregnancy 45
+LIST OF FIGURES
+Figure 1: Structure of the Counselling Process 23
+Figure 2: Pre-test and Post-test Voluntary Testing and Counselling 27
+Figure 3: HIV Counselling Positive Test Result 30
+Figure 4: Post-Test Counselling- Negative Result 32
+Figure 5: Requesting Second Test or Equivocal Result 34
+Figure 6: Flow Chart of stages in Blood Donor Counselling 40
+APPENDICES
+Appendix A: HIV Antibody Consent Form 49
+Appendix B: Suggested Open-Ended Questions HIV Counselling 50
+Counselling for HIV/AIDS 7
+Appendix C: Pre-test Counselling Visit 52
+Appendix D: Post-test Counselling Visit 53
+Appendix E: Partner Notification Form 54
+Appendix F: Patient Information Sheets 55
+ANNEXURES
+ANNEX -I Participants of the consensus Building workshop for the
+"Guidelines on Counseling for HIV/AIDS" 59
+ANNEX-II Participants of the workshops to pre-test the
+"Guidelines on Counselling for HIV/AIDS" 60
+ANNEX-III List of the HIV/AIDS surveillance Centres 60
+Counselling for HIV/AIDS 8
+INTRODUCTION
+GLOBAL SITUATION OF HIV/AIDS:
+pread of HIV and development of
+AIDS are being closely monitored
+worldwide. UNAIDS and WHO
+estimate that the number of people living
+with HIV/AIDS at the end of the year 2000
+stands at 36.1 million including 16.4
+million women. This is 50 % higher than
+what WHO's global programme on AIDS
+projected in 1991 on the basis of available
+data at that time. 5.3 million persons were
+newly infected with HIV while 3 million
+deaths occurred due to AIDS during the
+year 2000, bringing the total death toll to
+21.8 million since the beginning of the
+epidemic.
+Recent evidence affirms that the disease
+is spreading in Asia faster than anywhere
+else in the world and perhaps as fast as it
+did in Africa, a decade ago. An estimated
+700,000 adults, 450,000 of them men,
+have become infected in south and southeast
+Asia in the course of the year 2000.
+Overall, as of end 2000, the region is
+estimated to have 5.8 million adults and
+children living with HIV/AIDS
+HIV/AIDS IN PAKISTAN:
+Since the official recognition of the first
+case in 1987, the number of officially
+reported HIV infections and AIDS cases
+has grown to 1787 (as of March 2001).
+Unfortunately, most observers believe that
+the number of reported cases represents
+only the "tip of the iceberg", and that the
+number of actual cases may be far
+greater. Although the exact figures are not
+available at the moment, according to the
+WHO/UNAIDS forecast model, currently
+there are estimated 60,000 to 74,000 HIV
+infected individuals. However, a study is
+underway to ascertain the number of STD
+cases in each province, and these figures
+can be extrapolated to provide a more
+realistic figure of the true picture of AIDS
+in Pakistan. Because the greatest form of
+HIV transmission is through sexual
+contact, these STD figures will provide
+some insight into the number of people
+who could be potentially susceptible to
+HIV.
+The groups at increased risk of acquiring
+the HIV. infection have been defined in
+Pakistan and are the persons with risky
+behaviour, blood and blood product
+recipients, IV drug addicts, STD patients,
+professional blood donors and seamen.
+There are more than three million
+nationals working abroad with their
+families based in Pakistan. A large
+number of immigrants especially from
+Afghanistan and international tourists
+come to visit Pakistan. There is low
+literacy rate among the general public with
+insufficient awareness regarding
+HIV/AIDS transmission.
+Compared to many parts of the world,
+Pakistan is in a fortunate position in
+having small numbers of HIV infected
+people. However, experience has shown
+that if HIV is not controlled, these figures
+will rise rapidly, and a full epidemic could
+result. From experience with other
+countries in the world, it has been found
+that HIV counselling is one of the most
+important and effective interventions in
+HIV prevention and care. Not only does
+effective HIV counselling promote
+behavioural change and risk reduction
+activities, but counselling also provides
+people living with HIV/AIDS a better
+quality of life, and to experience a more
+peaceful death.
+What is HIV and AIDS?
+In 1983, scientists in France discovered
+the virus that causes AIDS and routes of
+its transmission were confirmed. The virus
+eventually became known as the human
+immunodeficiency virus (HIV). There are 2
+different types of HIV, which cause AIDS:
+(a) HIV-1, the most common type found
+worldwide, and (b) HIV-2 found mostly in
+West Africa.
+HIV infection affects the immune system
+resulting in its weakness called
+S
+Counselling for HIV/AIDS 9
+immunodeficiency. Immune system
+provides the body's defence against the
+micro-organisms (such as bacteria,
+viruses fungi etc) that penetrate the skin
+and mucous membranes and cause
+disease. In a healthy person, the immune
+system produces antibodies to fight off or
+kill these micro-organisms thereby
+preventing the occurrence of disease. In
+an immuno-deficient individual this ability
+to combat disease causing germs is lost
+by the following mechanism:
+Human immunodeficiency virus (HIV)
+infects and eventually destroys the
+lymphocytes and monocytes of the
+immune system. These cells carry the
+CD4 antigen on their surface (CD4+
+lymphocytes). HIV having special affinity
+for the CD4 antigen enters and infects
+CD4+ lymphocytes resulting in killing of
+many CD4+ lymphocytes. This slowly
+leads to a persistent, progressive and
+profound impairment of the immune
+system, making an individual susceptible
+to opportunistic infections and conditions
+such as cancer.
+HIV is the beginning stage of infection.
+The person remains symptomless and
+HIV antibodies can be detected only by a
+blood test. The infection gradually
+progresses to AIDS when the immune
+system becomes very affected resulting in
+appearance of certain opportunistic
+infections and cancers.
+HIV TRANSMISSION
+There are many myths and
+misunderstandings about the mode of
+transmission of HIV. It is very important for
+a counsellor to understand the modes of
+transmission so that effective HIV
+counselling can take place.
+HIV Can be transmitted by:
+a) Sexual intercourse (vaginal, anal
+and oral) or through contact with
+infected blood, semen, or cervical
+and vaginal fluids. This is the most
+frequent mode of transmission and
+HIV can be transmitted from any
+infected person to his or her sexual
+partner; man to woman, woman to
+man, man to man, and (but less
+likely) woman to woman. Other
+sexually transmitted diseases
+(STDs) (especially those causing
+genital ulcers) increase the risk of
+HIV transmission because more
+mucous membrane is exposed to the
+virus
+b) Transfusion of blood or blood products
+obtained from an infected donor.
+c) Injecting or skin-piercing equipment
+contaminated with HIV
+d) Mother to infant during pregnancy,
+labour, or as a result of breast
+feeding
+HIV cannot be transmitted by
+the routine contact/activities
+such as:
+(a) Coughing or sneezing
+(b) Handshakes
+(c) Insect bites
+(d) Work or school contact
+(e) Touching or hugging
+(f) Using toilets
+(g) Water or food
+(h) Using telephones
+(i) Kissing
+(j) Swimming pools
+(k) Public baths
+(I) Sharing cups, glasses, plates and
+other eating and drinking utensils.
+Natural History of HIV
+Infection:
+Natural history of HIV/AIDS can be
+studied under following phases:
+(a) Acute HIV Infection:
+Most people infected with HIV do not
+know that they have become infected.
+Antibodies to HIV antigens are usually
+developed 6 weeks to 3 months after
+being infected. In some individuals, the
+test may not be positive until 6 months or
+longer (although this would be considered
+unusual). This time is known as the "the
+window period" during which the person
+can be highly infectious and yet unaware
+of their condition. The term seroCounselling
+for HIV/AIDS 10
+conversion is used when a person
+recently infected with HIV tests seropositive
+for HIV antibodies.
+(b) HIV Infection before the
+onset of symptoms
+In adults, there is often a long, silent
+period of HIV infection before the disease
+progresses to full blown AIDS. A person
+infected with HIV may have no symptoms
+for up to 10 years or more. The vast
+majority of HIV-infected children are
+infected in the peri-natal period (during
+pregnancy and childbirth). The period
+without symptoms is shorter in children,
+with a few infants becoming ill in the first
+few weeks of life.
+(c) Progression from HIV
+infection to HIV-related
+disease and AIDS
+Almost all (if not all) HIV-infected people
+will ultimately develop HIV-related disease
+and AIDS. This progression depends on
+the type and strain of the virus and certain
+host characteristics. Factors that may
+cause faster progression include age less
+than 5 years, or over 40 years, other
+infections and possibly genetic
+(hereditary) factors. HIV infects both the
+central and the peripheral nervous system
+early in the course of infection. This
+causes a variety of neurological and
+neuro-psychiatric conditions. As HIV
+infection progresses and the person's
+immunity declines, people become more
+susceptible to opportunistic infections and
+cancers. These include: Tuberculosis,
+sexually transmitted diseases,
+septicaemia, pneumonia (usually
+pneumocystis carinii), recurrent fungal
+infections of the skin, mouth and throat,
+other skin diseases, unexplained fever,
+unexplained weight loss (also known as
+AIDS-related complex ARC), chronic
+diarrhoea with weight loss (often known as
+"slim disease"), meningitis, other diseases
+such as cancers (e.g. Kaposi sarcoma).
+Counselling for HIV/AIDS 11
+THE PURPOSE OF COUNSELLING
+Rationale for HIV Counselling:
+arious studies throughout the world
+suggest that HIV/AIDS counselling
+assists people to make informed
+decisions, cope better with their condition,
+lead more positive lives, and prevent HIV
+transmission. HIV/AIDS counselling is
+important because infection with HIV is a
+life long phenomenon and during the
+course of the infection, a broad range of
+physical, social and psychological needs
+and problems are likely to be experienced.
+The changing nature of the illness
+imposes a variety of psychological and
+emotional strains on individuals and those
+closest to them.
+HIV/AIDS counselling is a dialogue
+between a client and a care provider
+aimed at enabling the client to cope with
+stress and to make personal decisions
+related to HIV/AIDS. The counselling
+process includes the evaluation of
+personal risk of HIV transmission and the
+facilitation of preventive behaviour.
+HIV/AIDS counselling is a process that
+begins with the client's first contact either
+with an HIV/AIDS counselling service or
+with the care system for HIV-related
+needs. In the context of HIV/AIDS, the
+care system includes all health and social
+service facilities, both governmental and
+non-governmental, where individuals
+receive care and social support. The
+counselling process continues through a
+referral network to various community and
+social support agencies, according to the
+need of the individual and the family
+affected by or worried about HIV.
+Main goals of counselling are:
+1. To provide psychosocial support to
+those whose lives have been
+affected by HIV
+2 To prevent HIV infection and its
+transmission to other people.
+There are two major elements
+of counselling for HIV/AIDS:
+• The formation of sensitive, trusting
+and respectful relationships; and
+• A structured approach to ensure
+the client has adequate knowledge
+for problem-solving and decision
+making in pre and post-test
+counselling.
+The overall purposes of HIV
+counselling are:
+• To provide clients with information
+on HIV/AIDS (eg. means of
+transmission, prevention, testing
+etc),
+• To help the infected individual,
+family and friends to handle
+possible emotional reactions to
+HIV/AIDS (eg. grief, anger, fear,
+denial).
+• To discuss courses of action
+adapted to client/family needs and
+circumstances.
+• To encourage change, when
+needed, for the prevention or
+control of infection (eg. through
+protected or safer sex, and
+changes to drug injecting
+practices)
+• To assess the risk of HIV
+infection in potential blood and
+organ donors.
+Counselling helps people to define for
+themselves the nature of the problems
+they are facing. They can then make
+realistic decisions about what they can do
+to reduce the impact of these problems on
+themselves, their family and friends.
+Helping people to achieve the confidence
+to make lifestyle changes is an integral
+V
+Counselling for HIV/AIDS 12
+part of the counselling relationship.
+Effective counselling should occur where
+people most need it and should not be
+restricted to a clinic or a structured doctorpatient
+situation.
+Who Should Become HIV
+Counsellors?
+A wide range of people can play a role in
+the provision of HIV/AIDS counselling.
+These people include:
+• Doctors, nurses, community health
+workers, social workers, and other
+care-providers who have been
+specially trained in HIV/AIDS
+counselling. Some of these trained
+individuals may also act as "focal
+points" and educators for counselling
+services in their province, district, or
+community;
+• Full-time counsellors (e.g.
+psychologists, psychiatrists, and
+therapists) who have been trained in
+HIV/AIDS counselling, and who may
+receive clients directly, or who may
+receive clients through referral by
+other care-providers;
+• Religious leaders and other
+community-based workers who work
+consistently with people in
+confidential situations and with
+emotional concerns;
+• Trained community members,
+members of AIDS support groups,
+and other people living with
+HIV/AIDS.
+The people who are respected by the
+community, engender a sense of trust and
+respect with the people with whom they
+are working, and are willing to receive the
+specialized counselling training are the
+ideal selection to become HIV/AIDS
+counsellors.
+Who should receive HIV
+Counselling?
+HIV/AIDS counselling is for individuals,
+couples, families and groups. In particular,
+HIV counselling is for
+• People who are worried about their
+HIV status, and request testing for
+HIV (pre-test, and post test
+counselling);
+• Those having HIV/AIDS in their
+families;
+• People experiencing difficulties with
+issues such as stigma, isolation,
+financial hardships, as a result of
+HIV infection;
+• Those seeking help because of past
+or current risk behaviours; and
+• Those wishing to donate blood or body
+organs.
+In Pakistan, where couples are
+monogamous, with no extra marital or pre
+marital sexual contact, the risk of HIV is
+negligible. However, any unprotected
+sexual contact outside this monogamous
+relationship carries a risk of HIV
+transmission. In any society, a variety of
+individuals and groups may be particularly
+at risk for HIV transmission. Some of
+these include:
+• Men and women with multiple sex
+partners practising unprotected
+penetrative anal, vaginal and oral
+sex, including female and male
+commercial sex workers and their
+clients;
+• Injecting drug users who share
+injecting equipment;
+• Recipients of unsafe blood, blood
+products and donated organs
+People in certain occupations are known
+to be at greater risk for HIV transmission
+Counselling for HIV/AIDS 13
+in Pakistan. These occupations include
+long haul lorry drivers, men who are
+working and are then deported from the
+Middle East, and "singing and dancing"
+girls (commercial sex workers).
+Counselling is also needed for people who
+are at risk for HIV infection, and who do
+not know their HIV status. Some people
+may already recognize that they are at
+risk, while others will be unaware of the
+risk involved in their behaviours.
+Therefore, HIV education for the general
+population is an important strategy.
+Where Should HIV Counselling
+Take Place?
+HIV/AIDS counselling should take place
+wherever people concerned about, or
+living with HIV/AIDS live or are treated.
+Such places might include community
+health centres, rural health clinics, basic
+health units, hospitals, STD clinics, mother
+and child health clinics, reproductive
+health clinics, blood donation sites,
+antenatal and post partum clinics, schools,
+mosques, outpatient clinics, and all health
+outreach and community based
+programmes. Even in countries like
+Pakistan, where the incidence and
+prevalence of HIV is still comparatively
+low, counselling services should always
+be available at sites where care is being
+provided for HIV-positive people, voluntary
+counselling and testing centres and other
+sites where HIV tests are done and results
+can be traced to the individual, such as
+blood donation sites. Each site will
+influence how the counselling will be
+conducted and will require different
+responses from the counsellor. For
+example, it is much easier to counsel
+effectively when a private room is
+available, instead of trying to discuss
+sensitive matters in a busy and crowded
+clinic
+Confidentiality and Informed
+Consent
+HIV/AIDS counselling sessions are
+confidential and most involve the
+participation of a single client and a single
+care-provider. The client has an absolute
+right to confidentiality and/or anonymity
+unless and until the client decides
+otherwise. However, at the discretion of
+the client and the care-provider, the
+following people may also be involved in
+HIV/AIDS counselling sessions:
+• Members of the client's family;
+• A second care-provider with
+additional counselling skills that may
+be required to help the client
+address a particular problem or
+sensitive issue;
+• Members of a support group of
+individuals affected by or infected
+with HIV/AIDS;
+• Other resource persons such as
+clinicians and other health and social
+service providers.
+Although confidentiality is essential, it is
+important to encourage the client to share
+his/her test result with other supportive
+people. Research and experience has
+shown that people who share their
+diagnosis with others live a better quality
+of life, live longer, and experience a more
+peaceful death. However, because
+HIV/AIDS is surrounded by fear, stigma
+and isolation, people tend to fear
+disclosure of their condition. With support
+from the counsellor, and careful
+consideration of those who will share the
+client's confidence, the benefits of shared
+confidentiality far outweigh the risks.
+To ensure confidentiality of client's
+records, the client's initials and date of
+birth can be the only identifying feature on
+the record. A second list containing
+information relating to the client can be
+kept in a separate place. This second list
+will contain tracing information to the
+initialled record. Only those care providers
+who are working directly with the client
+should have access to this second list.
+Informed consent implies that the client
+fully understands the test that will be
+performed and the possible consequences
+Counselling for HIV/AIDS 14
+of the test result (either positive or
+negative). This informed consent also
+involves the client's awareness of the
+window period, where the client may be
+infected, but still undetectable on testing
+(see Appendix A for a sample informed
+consent form).
+In Pakistan, informed consent is implied
+when pretest counselling is completed and
+the client requested for the HIV test.
+However, it should be noted that the client
+may undergo HIV testing without pre-test
+counselling, but whenever possible, pretest
+counselling should be encouraged
+and undertaken.
+Counselling for HIV/AIDS 15
+BARRIERS TO EFFECTIVE HIV
+COUNSELLING
+IV/AIDS is a condition that often generates
+fear, misunderstanding and
+discrimination. Misunderstandings are
+created by inaccurate or insufficient knowledge
+related to HIV and fear of contracting the
+disease. This discrimination and isolation can
+be exacerbated by emotional, cultural, sexual and
+religious influences.
+Counsellors and other care-providers are not
+immune to acts of discrimination, and
+marginalisation of people living with HIV/AIDS
+(PLHA). This discrimination might arise from fear
+on contracting HIV while providing physical care
+for the PLHA (universal precautions must always
+be maintained). In addition, many care providers
+find it difficult to openly discuss sexual practices
+and preferences, sexual desires, and the number
+and type of sexual partners. There is often a
+"cloak of silence" related sexual practices and to
+illicit drug use. This is particularly relevant if these
+practices appear to by against the culture,
+traditions, laws and religions of Pakistan.
+Traditionally women cannot discuss sexual
+practices with men, or men with women.
+Consequently, care must be taken to select men
+to counsel men and women to counsel women.
+Intravenous drug use is another topic that many
+care-providers find difficult to discuss. In Pakistan
+the use of condoms as a method of birth control
+(as well as control of HIV transmission) is not
+openly discussed. In conclusion, experiences of
+fear, stigma, isolation, discrimination and
+marginalisation related to HIV/AIDS come from:
+• Misinformation about HIV transmission
+• Fear of contracting HIV
+• Cultural influences related to sexuality and
+birth control
+• Cultural norms of silence regarding sexual
+practices, preferences and desires.
+• Legal issues related to the misuse of legal
+and illegal substances, particularly
+intravenous drug use (IVDU).
+Negative attitudes, beliefs and values, or
+misinformation about HIV significantly affect the
+counsellor's ability to provide effective, respectful
+and dignified care. Some documented behaviours
+of care-providers include:
+• Condemning the PLHA (i.e, considering
+the PLHA is a bad person);
+• Isolating/avoiding the PLHA because of
+embarrassment of not knowing how to
+handle the situation;
+• Refusing to treat/care for the PLHA or
+their families
+• The inability to discuss sexual practices,
+preferences and desires because of
+embarrassment;
+• Ignoring or avoiding discussion and
+counselling about risk behaviours and HIV
+prevention and care;
+• Inability or unwillingness to approach the
+PLHA and family in a non-judgmental,
+caring and supportive manner.
+Strategies to Confront Biases,
+Beliefs, Values and Assumptions
+Self-Awareness: Counsellors must examine their
+own beliefs, values, assumptions and attitudes
+toward HIV/AIDS. There has been considerable
+evidence to suggest that care-providers are some
+of the worst offenders in discriminating against,
+and refusing to care for PLHA. Such practice is
+unacceptable, however, change will only come
+about if counsellors explore and challenge their
+negative thoughts, feelings and behaviours. This
+can
+H
+Counselling for HIV/AIDS 16
+be done individually or through peer group
+support where feelings and attitudes can be
+discussed, explored and challenged. Counsellors
+do not have to like all their clients but should be
+keenly aware of how their feelings, attitudes and
+prejudices can negatively affect the counselling
+relationship. If a serious conflict arises, the client
+should, if possible, be transferred to another
+counsellor. In order to examine their own needs
+and motivations, counsellors should ask
+themselves the following questions:
+• What are my own feelings about people
+with HIV/AIDS?
+• What are my feelings about people whose
+behaviour has placed others (or
+themselves) at risk of infection?
+• Are there some kinds of people or types of
+behaviour of which I disapprove so
+strongly that I probably could not counsel
+them non-judgementally?
+• Am I trying to impose my own values on
+my clients? How much do I want to
+influence and control them?
+• To what extent am I willing to let clients do
+what they decide to do and take
+responsibility for their own lives?
+Education: The irrational and often exaggerated
+perceptions of fear associated with HIV/AIDS
+could be addressed through educational
+programmes based on sound medical, social and
+psychological knowledge. To be successful,
+educational programmes should be sustained
+over a period of time and not be episodic or
+developed in isolation. Knowledge about
+HIV/AIDS is constantly changing and counsellors
+must be updated through continuing education
+programmes. Counsellors can make an important
+contribution to educating others.
+Prevention: Prevention strategies will continue to
+be compromised if fear, ignorance, intolerance,
+and discrimination against HIV infected persons
+persists. Where cultural norms and traditions
+conflict with HIV prevention and education
+strategies, these norms and traditions must be
+challenged.
+Care: Effective and dignified care can only be
+provided where respect and compassion for
+others is the norm. Looking inward to examine
+and challenge the counsellor's beliefs, values,
+assumptions and attitudes will go a long way to
+providing compassionate and respectful care.
+Such care can then be role modelled to others.
+Care provided with both knowledge and
+compassion can mean the difference between
+misery and isolation and the provision of comfort,
+with the preservation of dignity and respect.
+Culture and Tradition
+Encouraging and motivating clients to make
+decisions about changing their risk behaviours or
+lifestyles are important counselling strategies.
+Clients are more likely to make behavioural
+changes if the counsellor appreciates the cultural
+or traditional importance of the behaviour.
+"Culture" can be defined as the habits,
+expectations, behaviours, rituals, values and
+beliefs that people develop over time. In this
+sense, culture is a product of the interaction
+between people, ideas and the physical
+environment. Through culture and tradition,
+people learn acceptable behaviour, and what is
+considered right and wrong.
+Culture strongly influences people's feeling and
+beliefs about health and illness, about caring for
+the sick and about death and loss. Traditions
+handed down from one generation to another
+may be particularly important during times of
+stress, especially illness and death. One culture
+may see HIV/AIDS as a punishment while
+another culture may see it as fate. Therefore,
+culture and tradition will influence how people
+interpret, explain and respond to HIV/AIDS.
+Within Pakistan there will be variations on these
+cultural beliefs.
+It is important for the counsellor to examine
+his/her own cultural beliefs and values and to
+assess whether they are likely to be consistent
+with or opposed to the people they will counsel. If
+their cultural norms and traditions contradict, the
+counsellor must question whether he/she is able
+to transcend these cultural and traditional values
+to help the client. For example, the counsellor
+should question:
+Counselling for HIV/AIDS 17
+• Can I openly discuss issues of
+heterosexuality, homosexuality, and
+bisexuality?
+• Can I counsel a commercial sex worker
+without prejudice?
+• Can I discuss and demonstrate condom
+use?
+• Can I counsel transvestites and other
+trans-sexual people?
+• Can I counsel injecting drug users?
+It should be noted that some cultural norms and
+practices should also be honoured. For example,
+it would be advisable for women to counsel
+women, and for men to counsel men. Also, if
+people feel they cannot overcome some of the
+issues raised in the above questions, they should
+feel comfortable to make this known to others.
+Other counsellors can then be asked to work with
+clients with particular risk behaviours.
+Within Pakistan, there will be differing cultural
+beliefs and values. To gain a better
+understanding of the issues related to illness, HIV
+infection and counselling, the following questions
+can be asked:
+• What do people believe causes illness,
+and how do they explain illness and
+death?
+• What do people call HIV/AIDS (slang) and
+what do they believe causes it?
+• What do people think about HIV-infected
+people? Are they blamed for their illness?
+If so, would they be abandoned?
+• Who are recognised as helpers and
+healers? What types of treatment do they
+provide?
+• What role do religious leaders play for
+people with HIV/AIDS?
+• What is expected of people with regard to
+caring for the sick? Is the family expected
+to provide care?
+• How do people feel about discussing
+condom use and other safer sex methods
+with their sexual partners?
+The counsellor should anticipate that some
+information and discussions might be met with
+embarrassment, laughter or anger and denial
+depending on the person and the cultural context.
+Counselling for HIV/AIDS 18
+PSYCHOSOCIAL
+ASPECTS OF HIV
+COUNSELLING
+A psychosocial perspective is fundamental to
+HIV/AIDS counselling. This psychosocial
+perspective sees the client in the context of
+his/her social environment. The counsellor should
+recognize that personality traits, as well as the
+social environment will influence the client's
+behaviour. Therefore, central goal of counselling
+is to restore or maintain the client's relationships
+with family, friends and the community. This may
+involve working through the anxieties that the
+family and friends of the infected person may
+have regarding their own health or future. In
+addition, physical contact with the infected person
+should be encouraged as an important way of
+overcoming isolation.
+Psychological Stress of HIV/AIDS
+A diagnosis of HIV infection will create
+considerable psychological stress. The conditions
+that most people experience are uncertainty and
+adjustment. The news of HIV infection creates
+uncertainty about all aspects of the person's life,
+including the quality and length of life, the effect
+of opportunistic infections and the response of
+society to the illness. These issues need to be
+discussed openly and frankly. The person
+diagnosed with HIV must also make a variety of
+adjustments. There is no way of predicting how a
+person will react to the news of a positive test
+result, however, the following responses are
+some of the possible reactions that must be
+attended to in counselling.
+Shock:
+Shock is a normal response to life-threatening
+news. Common shock reactions include:
+• Numbness, "stunned" silence or disbelief
+• Confusions, distractibility or uncertainty
+about present and future circumstances.
+• Despair
+Emotional instability (eg. moving quickly and
+unpredictably from tears to laughter and visa
+versa).
+Withdrawal, distancing from present issues and
+circumstances, reluctance to become involved in
+conversation or counselling, or activities and
+plans for treatment or for the future.
+Counselling Strategies:
+Although shock is a normal response to hearing
+the news of a life-threatening illness, it is
+important to explore the feelings the client has
+related to shock. As these feelings are aired, it is
+more likely that the effects of shock will diminish.
+Denial:
+Some people respond to the news of their
+infection or disease by denying it. While initial
+denial can help reduce stress, if it persists, it can
+prevent appropriate changes in behaviour and
+adjustments in life, necessary to cope with HIV
+and to prevent transmission. If denial is not
+challenged, people may not accept the social
+responsibilities that go with being infected.
+Counselling Strategies:
+The counsellor must broach this issue and
+challenge the client about his/her denial. This
+should be done in a supportive manner, however,
+such topic must be brought into the open. Often
+challenging the client about his/her denial will
+provide an opportunity to break through this
+impasse.
+Anger
+Some people become angry about the test result.
+They may engage in destructive behaviour such
+as harming themselves or others. With
+progressing illness, the person may become unfit
+for work. Boredom, with a life that is increasingly
+restricted in diet, activity and social contacts may
+be a source of anger. Anger can be expressed as
+irritability or unprovoked outbursts, sometimes
+triggered by seemingly trivial issues. Anger can
+also be directed inwards in the form of self-blame
+and self-destructive behaviours.
+Counselling Strategies:
+The counsellor should share his/her hunches
+about the feelings of anger expressed verbally or
+Counselling for HIV/AIDS 19
+non-verbally by the client. With this opening, the
+client can more freely explore and examine his
+feelings. As these feelings are discussed openly,
+the client is more able to confront his/her feelings
+and deal with them appropriately.
+Fear
+People diagnosed with HIV infection have many
+fears. The fear of death or of dying alone is very
+common. Other common fears may include fear
+of desertion, refection, leaving children/family
+uncared for, disability, loss of bodily or mental
+functions, and loss of confidentiality of privacy.
+Fear may also be based on the experiences of
+others or from lack of accurate, understandable
+HIV/AIDS information.
+Counselling Strategies:
+If the counsellor suspects that the client is feeling
+fearful, he/she must explore these feelings with
+the client. As the client explores the experience of
+fear, he/she is more able to face this fear in a
+healthy way.
+Isolation
+The HIV-infected person may react by
+withdrawing from all social contacts. A significant
+factor is the fear of being abandoned, with the
+consequent reaction; "everyone is going to
+abandon me, so I will turn away first".
+Counselling Strategies:
+Initially, the counsellor should respect the need
+for isolation, while continuing a supportive
+counselling relationship. If isolation continues for
+a long period, the counsellor should explore the
+causes and support a change in attitude and
+behaviour. Evidence has shown that social
+support helps improve the client's quality of life,
+prolong life and promote a peaceful death.
+Loss
+People with HIV/AIDS experience feelings of loss
+about their ambitions, their physical
+attractiveness, potency, sexual relationships,
+status in the community, finances, stability and
+independence. As the need for physical care
+increases, there will also be a loss of privacy and
+control over life. Loss of self-confidence is critical
+since it can undermine the individual's ability to
+cope with HIV/AIDS. Many will have to face their
+own physical vulnerability and mortality. Also
+many of these experiences cannot be avoided,
+effective counselling will alleviate much of the
+significant stress caused by these losses
+Counselling Strategies:
+The client should be encouraged to explore
+his/her feelings of loss. In follow-up counselling
+session, these feelings should be revisited as
+situations and experiences may change. As
+clients face the many losses they experience,
+they are better able to cope and adjust to their
+loss. In addition, with exploration of certain
+losses, these experiences can be reverted. For
+example, exploring the loss of sexual
+relationships can lead to discussion about other
+forms of sexual expression.
+Grief
+People with HIV/AIDS often have deep feelings of
+grief over the losses they had experienced, or
+had anticipated for the future. They may also
+sense the grief of close family members and
+others who care for them and witness their
+declining health. In addition, family members
+themselves grieve the declining health and
+eventual death of a loved one.
+Counselling Strategies:
+Counsellors must be aware of these feelings of
+grief for both the client and the family members
+and help them explore these feelings. The
+purpose of such counselling is to explore the
+feelings associated with grief, and help the client
+and family members experience grief in a more
+manageable way. Anticipatory grief management
+is also helpful. This can be accomplished by
+sensitively approaching the subject of loss and
+death and helping the client (individual and
+family) explore how they will manage this grieving
+process.
+Guilt
+When HIV infection is diagnosed, there is
+usually a feeling of guilt about the possibility
+of having infected others (especially spouses
+and children), or about the behaviour that
+may have resulted in the HIV infection (eg,
+unsafe sexual experiences or injecting drug
+Counselling for HIV/AIDS 20
+use). There is also guilt about the sadness;
+disruption and loss that the illness will cause
+loved ones. Counsellors must help the client
+fully explore feelings of guilt. If these feelings
+are not fully examined, there is a tendency for
+them to magnify as the illness progresses.
+Unresolved guilt will cause the client to
+become sicker more quickly and might result
+in premature death.
+Counselling Strategies:
+The counsellor should not assume to know if
+the client is experiencing guilt, or what the
+client might feel guilty about. However, it is
+appropriate for the counsellor to say; "many
+people feel guilty when they realise they are
+HIV infected, is this something you are
+feeling?" In this way, the subject can be
+approached, but the client is given the
+opportunity to explore this feeling for
+him/herself.
+Depression
+Depression may arise from the realization
+that the virus infected the body, without any
+hope for a cure, which often results in
+feelings of powerlessness. A client may also
+become depressed by loss of personal
+control that may be associated with repeated
+medical examinations. Similarly, experiencing
+such things as the loss of potential for
+procreating or parenting and for long-term
+planning may contribute to depression.
+Counselling Strategies:
+Depression manifests itself in different ways.
+The person may become quiet or withdrawn.
+Anger, irritability or sudden outbursts might
+also be signs of depression. The client may
+also verbalise their feelings of depression. If
+the counselor suspects that the client is
+depressed, it is important to share that
+suspicion with the client so that full
+exploration of his/her feelings can take place.
+As the feelings of depression are verbalized,
+they become more accessible to the client
+and this will help the client to cope and to
+manage his/her feelings.
+Anxiety
+Anxiety can quickly become a prevailing
+feeling for the person living with HIV/AIDS.
+This anxiety often stems from chronic
+uncertainty about their illness and its
+progression. In addition, the client often
+experiences declining ability to function
+efficiently and loss of physical and financial
+independence.
+Counselling Strategies:
+The client usually manifests signs of anxiety
+that the counsellor can then address openly.
+If these anxieties are masked, then the
+counsellor can suggest; "many people
+experience feelings of anxiety about how their
+illness will progress and what that will mean
+for the person's life and financial security.
+"Have you experienced feeling anxious about
+your condition and your future? In this way,
+the feelings can be explored and anticipated.
+This anticipatory guidance often helps the
+client cope better as the illness progresses.
+Loss of Self-esteem
+Self-esteem is often threatened as soon as
+HIV is diagnosed. Rejection by neighbors, coworkers,
+acquaintances, and loved ones can
+cause loss of social status and confidence,
+leading to feelings of reduced self-worth. The
+physical impact of HIV-related diseases that
+bring, for example, facial disfigurement,
+unsightly tumours, physical wasting, loss of
+physical strength or bodily control can
+compound the problem.
+Counselling Strategies:
+The counsellor should raise these issues with
+the client. Ignoring physical changes will
+impede effective counselling. Addressing
+these issues and exploring how the client is
+feeling about their condition will help them
+cope with their changing condition.
+Counselling for HIV/AIDS 21
+Suicidal thoughts, plans and actions
+People who learn that they are HIV-infected
+have a significantly increased risk of thinking,
+planning and attempting or committing
+suicide. Suicide may be seen as a way of
+avoiding their own pain or of lessening that of
+loved ones. Suicide may be active (deliberate
+self-injury resulting in death) or passive (selfdestructive
+behaviour such as concealing the
+onset of a possibly fatal complication from an
+opportunistic infection).
+Counselling Strategies:
+The counsellor must assess whether the client
+has suicidal tendencies and approach this topic
+with sensitivity and clarity. The counsellor must
+also try to assess the gravity of the situation i.e.
+whether the individual is in thought phase
+(thinking about committing suicide), planning
+phase (thinking how to commit suicide) or is in the
+action phase. It is imperative to engage in open
+discussion on this topic. Often talking through
+these feelings will help alleviate these suicidal
+thoughts and actions. Counselling strategies must
+be planned considering the stage client is in.
+Hypochondria
+Excessive preoccupation with health or even the
+smallest physical changes can lead to
+hypochondria. This may be temporarily following
+the diagnosis, or it may persist where adjustment
+to the disease is difficult.
+Counselling Strategies:
+The counsellor should sensitively address the
+client's preoccupation with his/her own illness and
+concerns. It should be noted that some
+preoccupation is normal and so this topic should
+be addressed only if the client appears to be
+overly absorbed in his/her own condition. It is
+better to hold this hunch in check and only broach
+the subject if the client persists in this selfpreoccupation,
+to the detriment of other people in
+his/her life or to his/her own well-being.
+Spiritual Concerns:
+The fear of death or other common reactions to
+an incurable illness may create or increase the
+individuals interest in spiritual matters.
+Expressions of sin, guilt, forgiveness,
+reconciliation, and acceptance may appear.
+Counselling Strategies:
+The counsellor should approach this subject, if
+the client does not do so for him/herself. Referral
+to a spiritual leader might be an important
+strategy.
+Additional Complications
+Factors affecting the severity of the
+client's psychological state might be also include:
+• The person's physical condition;
+• How well prepared the person is for the
+news of HIV infection;
+• How well the person is supported by
+his/her family and in the community and
+how readily he/she can call on the
+assistance of family and friends;
+• The person's prior personality and
+psychological condition; and
+• The cultural and spiritual values of the
+person, his/her beliefs and values about
+HIV/AIDS and his/her attitude towards
+death.
+Counselling for HIV/AIDS 22
+COUNSELLING SKILLS AND
+RESOURCES
+ounselling is a complex and active
+process, and can be learned only through
+practice and dynamic interaction. The
+process of learning counselling skills requires
+constant practice and feedback from trainers or
+peers. Counselling differs from conversation in
+the following ways:
+• it is purposeful: every counselling session
+has a particular aim that is achievable;
+• specific: the counselling session deals
+with a specific concern or issue; and is
+• focused toward a desired goal.
+Accordingly, counselling aims to:
+• clarify the problems presented by the
+client;
+• provide necessary information;
+• explore alternative options and resources;
+• enable selection of realistic alternatives;
+and
+• stimulate motivation toward effective
+problem solving and decision making.
+Common features and requirements of effective
+counselling include:
+• Time: it is essential to provide enough time for
+the effective counselling to take place. Also, it
+takes time to develop trust in the relationship.
+However, in many work situations, it is very
+difficult to make time to complete a whole
+counselling session. In this case, it should be
+noted that effective interpersonal communication
+can occur in a very limited amount of time. That
+is, effective communication can often occur in a
+brief encounter. Some people may require many
+counselling sessions in order to explore their
+problems, acknowledge the need to change a
+particular behaviour, to learn protective methods,
+begin to effectively solve problem and learn some
+necessary negotiating skills.
+Acceptance and Respect: people with HIV/AIDS
+should feel that they are fully accepted by the
+counsellor. The counsellor must be self aware
+and non-judgemental in the counselling session.
+Consistency and accuracy: any
+information provided in the counselling session
+must be consistent over time. The counsellor
+therefore, needs to have a full knowledge of the
+facts related to HIV/AIDS, or have the ability to
+seek out the knowledge that he/she lacks.
+HIV/AIDS information is changing rapidly, and the
+counsellor must keep up with this knowledge
+development.
+Confidentiality: trust is one of the most important
+factors in the relationship between the counsellor
+and the client. It enhances the opportunity for
+deep exploration of the client's condition and
+improves the chances that the client will act
+decisively on the information provided.
+Confidentiality ensures that any reference to or
+discussion about a client (except within a
+professional relationship) will not be undertaken
+without the express consent of the client.
+Sensitivity and tactfulness: although it is
+essential to raise issues related to sexuality
+and/or drug use, such discussions should be
+undertaken with sensitivity to the client's concern
+and presenting problem. These sensitive topics
+should be directed toward helping the client
+explore emotional issues, solve important
+concerns and make healthy decisions.
+C
+Counselling for HIV/AIDS 23
+Stages in the Counselling Relationship
+Each counselling session should be structured
+around a beginning, middle and end. In some
+circumstances, there might only be an opportunity
+for one counselling session. However, whenever
+possible, follow-up counselling sessions should
+be planned. The stages of each counselling
+session should include:
+Beginning Stage: The beginning of the
+counselling session is very important as it
+provides an opportunity to establish a respectful,
+trusting relationship. Confidentiality should be
+discussed at this stage. Allow time for the client to
+tell his/her story. This story telling might appear
+disjointed, however, providing time to let the client
+express him/herself is very important. At this
+stage, do not interrupt the client except to
+summarize or paraphrase certain issues. The
+most important counselling strategy in the early
+stages is to listen attentively. In follow up
+counselling sessions, a recap of the activities that
+the client has undertaken or an exploration of the
+issues and problems he/she has faced since the
+previous session should be explored.
+Middle Stage: Once the client begins to trust the
+counsellor and the initial story has been told,
+open-ended questions can now be raised and a
+case history taken. At this stage a plan of action
+is put in place. One of the most difficult and
+critical tasks is to encourage the client to share
+his/her condition with a spouse, partner, or family
+and friends. In addition, the counsellor should, (a)
+support the continuing expression and discussion
+of feelings, (b) if necessary, refer to available
+formal and informal resources, (c) monitor
+progress and modify plans as necessary, (d)
+promote the continuation of changes in behaviour
+and (e) help the person to move towards
+acceptance and control
+End Stage: Each counselling session should be
+brought to a satisfactory conclusion. The client
+should be aware of the progress he/she is making
+and have plans for further behavioural change.
+This strategy provides a sense of completion to
+the counselling session with a planned movement
+forward. When the counselling sessions are to be
+completed, this final stage should be carefully
+planned. The counsellor may increase the interval
+between visits so as to let the client gain
+increased independence with the knowledge that
+the counsellor is still available if necessary. The
+counsellor should end the counselling sessions
+only when it is certain that the client can cope and
+adequately plan for day-to-day functioning and
+has a support system (eg. family, friends, support
+group etc) in place. Finally, the counsellor should
+support the maintenance of behavioural change
+and make sure that all needed and available
+resources have been identified and are being
+used. It is important to provide an opportunity for
+the client to re-enter counselling if it is deemed
+necessary.
+Effective Interpersonal Communication Skills
+Counselling involves communication about
+sensitive issues and requires deep exploration of
+the client's issues and concerns. For this reason,
+the counsellor should develop the following
+interpersonal communication skills:
+• Active Listening: The counsellor
+indicates be words, expression and
+gesture that he/she understands what the
+client is saying. Such skill as nodding and
+reflecting back what the client has said are
+important.
+• Encouraging: Some people do not
+express their feelings openly, even though
+they may feel them deeply. The counsellor
+should encourage the expression of
+feelings. It is only when people work
+through their feelings that they can begin
+constructive change. Words like, "yesplease
+continue" can be very encouraging.
+• Recognising: The counsellor should be
+skilled in recognising and distinguishing
+various emotions the client is
+experiencing. Statements such as "that
+must be very difficult to accept"
+demonstrate the counsellor's ability to
+recognise particularly difficult issues.
+• Acknowledging: The counsellor should
+acknowledge feelings such as anger,
+sadness and fear in a direct, unemotional
+way. Statements such as "I understand
+that this is not easy for you" are helpful.
+• Effective Questioning: Counsellors use
+questions to help clients express their
+feelings and problems. These questions
+should be open-ended, aimed promoting
+Counselling for HIV/AIDS 24
+further exploration. Therefore, rarely are
+closed questions that require only a "yes"
+or "no" answer helpful. They should also
+enable the client to give a variety of
+answers "please tell me what you know
+about...", or "how do you think your wife
+will respond to this information?" are
+exploratory open-ended questions.
+• Empathising: Empathy is more than
+sympathy; it involves trying to place
+oneself in another person's situation. This
+is a difficult skill to fully master as it
+requires the counsellor to suspend their
+own feelings and judgement and to enter
+the experience of the other. This is not to
+say that the counsellor looses his/herself
+in the process, instead, it is a skill of
+placing oneself into the "shoes" of
+another, and reflecting on the events
+experiences, emotions, and concerns. A
+statement such as I can see you're feeling
+very anxious about..." is an effective
+empathic response. This response
+captures the feeling of the client while
+being specific about the reason the feeling
+has occurred.
+• Respecting: Counsellors should respect
+clients' views and beliefs. They can show
+this respect by asking a client to explain
+unfamiliar aspects of their beliefs and
+values. These beliefs and values might be
+cultural, traditional or based on personal
+experience. Statements such as, " I am
+not familiar with this, can you tell me
+more". Another way to show respect is to
+listen attentively and paraphrase what is
+heard.
+• Clarifying: The counsellor tries to clarify
+either what the client has said. For
+example, "do you mean...?", or presenting
+factual information. For example, "no, HIV
+is not transmitted by touching the infected
+person".
+• Paraphrasing: Clients can tell when they
+are being understood when the counsellor
+repeats what the client has said, using
+his/her own words. Statements such as,
+"so you are saying that....". In this way, the
+client can either agree with the
+paraphrase, or clarify his/her statement.
+• Challenging: The counsellor should
+confront the client if he/she appears to be
+avoiding important issues or when the
+client has not followed through with an
+agreed rather than one answer. For
+example upon action plan. This
+challenging can be sensitive so that the
+client can see it as a positive act, and not
+an expression of anger or blame. An
+effective challenge might be, "last week
+you said that you were going to talk to
+your wife about your illness, what has got
+in the way of you doing this?"
+• Repeating: At times of stress and crisis,
+people may not understand everything
+they are told because they are in a state
+of denial, or feel overwhelmed. The
+counsellor should not hesitate to repeat
+important information. In fact, most people
+need to be told more than once, in order
+for certain information to be fully
+understood and retained.
+• Emphasizing: Often people avoid
+focusing on the real problem. The
+counsellor should highlight the most
+critical issues. For example "of all the
+things we have covered today, the point
+that stands out for me is...", or, "can I just
+emphasize the following points...?" In this
+way, the client has an opportunity to focus
+on some important issues that have been
+raised in the counselling session.
+• Structuring: Structuring determines
+which problems or issues need immediate
+attention and those that can be postponed
+to a latter session. It is an essential
+planning and helps to structure the
+ongoing counselling process. However, it
+is important to note that the structuring
+that occurs in one session might not be
+appropriate in subsequent. Structuring
+provides the counsellor and the client with
+a sense of movement. Such statements
+as, "there are three main issues we are
+facing" help focus and structure the
+session and subsequent sessions.
+• Motivating: Counsellors should try to
+motivate clients by offering positive
+encouragement of new behaviours. For
+Counselling for HIV/AIDS 25
+example, the counsellor might explain how
+the changed behaviours will help protect
+the client's loved ones. This may be a
+critical source of motivation. Another
+source of motivation is to explore what
+might happen if the client does not change
+their risk behaviour. Anticipating potential
+problems can be another source of
+motivation. For example, "what do you
+think might happen if you continue to have
+sex with commercial sex workers?"
+• Summarizing: This is very much like
+paraphrasing in that it helps to ensure that
+the client and the counsellor understand
+one another correctly. Summarizing can
+be done by the client or the counsellor. At
+the end of the session, it might be
+important to summarize the important
+points that have been covered that
+session. Such statements as, "To
+summarize then, these are the issues..."
+help focus and highlight the major issues
+in the counselling session.
+Common Errors in Counselling
+The principles of effective counselling are easy to
+read but difficult to apply. Continuous practice
+with feedback is essential to fully incorporate
+these skills into a helping relationship. Some
+common counselling error include:
+• Controlling the session rather than
+encouraging the client's spontaneous
+expression of feelings and need.
+• Judging by showing non-verbal
+disapproval or by making statements that
+indicate that the client is not meeting the
+counsellor's standards.
+• Moralizing, preaching, and patronizing -
+telling people how they out to behave or
+lead their lives.
+• Labelling, rather than trying to find out the
+person's motivation, fears and anxieties.
+• Unwarranted reassuring - trying to
+induce undue optimism by making light of
+the client's version of the problem.
+• Not accepting the client's feelings -
+saying they should feel differently.
+• Advising before the client has enough
+information or time to arrive at a personal
+solution.
+• Interrogating - using questions in an
+accusatory way. "Why" questions often
+sound accusatory.
+• Encouraging dependence - increasing
+the client's need for the counsellors
+continuing presence and guidance.
+• Cajoling - persuading the client to accept
+new behaviour by flattery or deceit.
+Non-verbal Communication
+There is research evidence that suggests that
+between 70-90% of all communication is nonverbal
+This means that a counsellor must be very
+self aware of his/her own beliefs and values and
+how these might affect the counselling session. In
+addition, counsellors should pay close attention to
+both the verbal and non-verbal messages of the
+client. The following table contrasts positive and
+negative nonverbal counselling techniques:
+Counselling for HIV/AIDS 26
+Positive Negative
+Looks the client in the eye
+Uses attentive facial expression, body movement
+and posture.
+Sits a suitable distance from the client Does not
+speak too quickly, or too slowly
+Uses occasional gestures such as nods, to
+acknowledge the client
+If appropriate, uses humour to reduce the tension
+Uses a tone of voice similar to the client's
+Looks away frequently
+Frowns, scowls or yawns
+Sits at an inappropriate distance
+Speaks too quickly, or too slowly
+Appears un-reactive and fails to respond to the
+client's words or gestures
+Uses humour inappropriately, or conversely,
+increases the tension by too heavy and serious a
+tone
+Uses an unpleasant tone of voice
+Introducing Sensitive Topics
+Talking about how HIV/AIDS is transmitted sexually or
+through injecting drug use requires sensitivity on the
+part of the counsellor. Introducing these sensitive
+topics is essential, however, many counsellors find in
+depth discussion on these topics fully to be
+problematic. Information about intimate behaviour will
+have to be gathered and interpreted. Some client
+behaviours will be disapproved of by the general
+population, and in some circumstances, even illegal.
+The first, and most important task for the counsellor is
+to examine his/her own abilities to discuss intimate and
+often traditionally unsanctioned behaviours in an open,
+non-judgemental manner. This can be challenging for
+the counsellor. It is then the responsibility of the
+counsellor to encourage open discussion with his/her
+client. There is no simple formula for encouraging
+people to talk about sensitive topics. Effective
+discussion will depend in large measure on the ability
+of the counsellor to:
+• Counsel to the emotional and intellectual level
+of the client;
+• Provide an atmosphere where the client feels
+safe and secure by establishing a supportive,
+non-judgemental relationship; and
+• Demonstrate his/her own ease in talking about
+topics usually avoided in ordinary social life or
+in medical consultations.
+All HIV counselling will require skill, tact and sensitivity.
+In some circumstances, the counsellor may
+have to enquire about taboos or unusual practices.
+The counsellor should also realize that the risk of HIV
+infection may involve secret behaviours. In some
+circumstances, the counsellor should understand and
+be willing to use local or slang expressions.
+Counselling regarding sensitive and deeply personal
+topics requires the counsellor to:
+• Feel secure and at ease when enquiring about
+intimate matters that are rarely openly
+discussed, to enable clients to talk about
+sensitive topics;
+• Focus the discussion on specific at risk
+practices and behaviours. The detail needed
+(eg. bisexuality, homosexuality, unprotected
+heterosexuality with multiple partners, injecting
+drug practices etc.) may embarrass the client,
+and even the counsellor, in some instances,
+however, such open discussion and
+counselling is essential.
+In order to counsel effectively, the counsellor
+should ask him/herself the following questions:
+• Which sexual practices will be most difficult for
+me to talk about?
+• What everyday words will clients use or avoid
+when explaining risk practices or behaviours?
+• How will I approach counselling with clients
+who differ from me culturally, sexually, or of a
+different age?
+Counselling for HIV/AIDS 27
+• How will I explain the need to
+discuss intimate or taboo subjects?
+Counselling Strategies: The first step is to be
+self aware about the counsellor's beliefs, values,
+assumptions and judgements about issues
+related to HIV transmission. It is also imperative
+that the client understands that confidentiality will
+be maintained. Developing a trusting, respectful
+relationship with the client before approaching
+sensitive topics is essential. If time is limited,
+opening to the exploration of sensitive topic must
+be carried out, however, the counsellor must
+continually reassure the client that confidentiality
+will be maintained. Explain to the client that
+preventing the spread of HIV requires open and
+honest discussion about his/her life style and
+sexual or drug related practices. Start the
+counselling session by explaining to the client that
+discussion of sensitive, perhaps embarrassing
+subjects will be necessary. Be clear and open
+about what issues need to be covered in the
+counselling session. Be sure that the counsellor is
+appropriate for the client. That is, usually a man
+should counsel a man, and a woman should
+counsel a woman. When group or family
+counselling occurs, then a decision should be
+made about the appropriate gender of the
+counsellor. Often generalizing the practice to
+other people will allow a person to talk more
+freely at the beginning of the counselling session.
+For example, the counsellor may say, "some
+people around here say that you can only get HIV
+if you have sex with many partners (eg. singing
+and dancing girls). Have you heard this?"
+Questions are also critical in counselling (see
+Appendix B for examples of good HIV
+questioning). Only through honest and open
+dialogue can the counsellor illicit information
+about risk, check the understanding, or
+misunderstanding of facts and assist the client in
+deciding about the courses of action. Such
+questions might address relationships, the type of
+sexual practices the client engages in and the
+client's knowledge about HIV/AIDS including
+modes of transmission. This topic will be covered
+in more detail under the chapter on HIV
+counselling.
+Crisis Counselling
+Crisis counselling is most often necessary when
+the client perceives HIV/AIDS as a threat to
+his/her survival and/or to the social stigma he/she
+perceives to be associated with the news. The
+crisis event usually has four stages. The first
+stage is one of shock when the client realizes that
+something is wrong, symptoms appear or when
+the HIV test is positive (after a second confirming
+test result). This event often leads the client to
+recoil from the news (second stage). For
+example, the client may struggle emotionally with
+the full implications of the test result. Some clients
+will demand another test at another testing facility
+to confirm the diagnosis. Although these emotions
+are normal, they should be transitory.
+Some clients quickly begin to come to terms with
+the diagnosis, while others withdraw (stage
+three). At this stage, it is often appropriate to
+allow the client time to explore their emotions of
+fear, denial, shock etc. However, it is important
+not to allow the client to stay withdrawn and
+isolated from the counsellor or his/her family and
+friends. Such behaviours often lead to depression
+or denial of their condition. Such denial can be
+dangerous, as the prevention of HIV transmission
+often requires behavioural change (see Chapter 4
+for details about how to counsel in these
+circumstances). If counselling is effective, and the
+client feels supported and understood, the client
+may move to the fourth stage, one of acceptance
+of his/her condition. This acceptance is the first
+step in promoting necessary behavioural change.
+An emotional crisis may result if a person feels:
+• Intensely threatened;
+• Completely surprised and caught unaware
+by events that are happening;
+• Emotionally disturbed as a result of loss of
+control; and
+• Emotionally paralysed because there does
+not seem to be any solutions to the
+problem, all efforts to resolve the situation
+appear hopeless, or the results appear to
+be overwhelming to the person.
+Counselling Strategies: It should be noted that
+any event that is perceived by the client to be a
+crisis, should be treated as such by the
+counsellor. In this sense, the counsellor should
+begin by respecting and supporting the emotional
+crisis as the client sees it. It is very important at
+this stage not to "down play" the emotions of the
+Counselling for HIV/AIDS 28
+client or try to reason with him/her about the
+nature of the situation. Some clients become so
+anxious and overwhelmed that they cannot
+function normally. At this stage, the counsellor
+should actively listen to the client by responding
+and paraphrasing (addressed earlier in the
+chapter) his/her emotional concerns. When the
+client is in crisis, the counsellor should remain
+calm and accept the fear as genuine. The
+following counselling techniques are effective in a
+crisis:
+• Guided/structured questioning: The
+counsellor can help the client explore
+his/her feelings by asking open-ended
+questions. For example, "At this stage,
+you are probably feeling very
+overwhelmed. I need to ask you a few
+questions to help us sort out what you are
+feeling" (see Appendix B for some
+examples of effective questions).
+• Acceptance: Accepting the clients
+feelings as valid is an important strategy.
+For example, I can see that you are
+feeling angry and questioning the result.
+This must be very hard for you to accept
+this diagnosis".
+• Emotional support: As well as
+acceptance, the counsellor should provide
+emotional support to the client, while also
+providing a sense of direction. Statements
+such as, "Many people feel overwhelmed
+with the news when they first hear it. I can
+see that you are having some of these
+feelings yourself. As time goes on, we will
+be able to sort through these emotions
+and help you move forward with your
+future".
+Some additional skills the counsellor can use in a
+crisis situation are:
+• Staying in the present by focusing on the
+client's immediate expression of emotions;
+• Checking whether the client shows the
+ability to start making some important
+decisions;
+• Clarifying with the client what he/she
+regards as a crisis, and supporting the
+client to move toward reducing this
+emotional burden;
+• Starting to work with the client on aspects
+of the crisis and to foster confidence that
+he/she can deal with future problems.
+In a crisis situation, the client is unlikely to
+remember all that the counsellor tells him/her.
+Depending on the literacy level of the client,
+information should be written down and given to
+the client (see Appendix F for some examples of
+client information sheets). In addition, the
+counsellor should be prepared to repeat
+information, often many times, to ensure client
+understanding.
+Problem-solving Counselling
+Often the client feels able to deal with the crisis
+once some pressing problems have been
+addressed and acceptable solutions found. This
+strategy gives the client a feeling of self-efficacy.
+However, crisis counselling deals with the
+present, while problem-solving looks to the future.
+Some of the most important problem-solving
+techniques used by the counsellor involve mutual
+problem posing and planning. This planning
+should include how to prevent further HIV
+transmission, ways of coping with the reaction to
+HIV/AIDS, and seeking appropriate resources,
+including medical care. The counsellor should
+highlight the consequences of HIV infection and
+suggest possible approaches to address these
+problems. Once the client fully understands the
+consequences of HIV, the client and the
+counsellor can work together to assess how best
+to address these concerns. Clients are more likely
+to follow healthy decisions if they have taken part
+in the problem-solving process.
+Counselling Strategies: The problem-solving
+approach is used to help clients to:
+• Understand the nature of the illness;
+• Think through the impact of the disease
+on their daily living;
+• Gain the courage and personal skills for
+dealing with the problem; and
+• Change behaviours to protect themselves
+and others.
+Counselling for HIV/AIDS 29
+Effective problem-solving counselling involves:
+• Defining all aspects of the problem as the
+client sees it;
+• Encouraging open discussion about the
+client's feelings, while demonstrating
+support and reassurance that these
+feelings are normal;
+• Assessing the client's past and present
+problem-solving abilities;
+• Reducing the problem into a number of
+manageable parts that can be more easily
+addressed. As the problem is broken
+down into manageable components, the
+client and counsellor are able to begin
+planning some problem-solving strategies;
+• Discussing personal and other related
+resources available to the client.
+Decision-making Counselling
+Based on the awareness of risk behaviour or a
+diagnosis of infection, the client must make
+decisions about behaviour and other possible
+changes. Hopefully, these decisions will be made
+with growing emotional control and better
+understanding of the problem. Decision-making
+counselling helps the client to focus on often
+disturbing, but necessary decisions. Decisions
+that may need to be taken into account include:
+• Who will need to be told of the condition,
+and how and when will they be told?
+• How will the client handle certain legal,
+financial or other matters?
+• Who will be asked to provide emotional
+support and physical care?
+• Who will care for the children?
+• What kind of change can be made in diet
+or lifestyle in order to stay as healthy as
+possible?
+Counselling Strategies: As trust is established
+between the counsellor and the client, addressing
+these questions (and perhaps others) will be very
+important. It will also be important for the
+counsellor to judge when the client is ready to
+begin this decision-making process. Only when
+the time is right will the client be able to move
+toward effective problem-solving and decisionmaking
+(the issue of timing was discussed earlier
+in this chapter). Consideration and ultimate
+resolution to these questions will help the client
+restore a sense of control and movement toward
+necessary conclusions.
+Developing Adequate Resource
+Networks
+As HIV infection progresses into AIDS, different
+medical and psychosocial needs emerge. The
+counsellor cannot (and should not) meet all these
+needs. Instead, the counsellor should be fully
+aware and refer the client to other available
+formal or informal resources. Formal resources
+include medical care services (eg. health centres,
+clinics, hospitals etc.). Services that provide
+assistance with finances, food, transportation,
+other counsellors, and health care workers should
+also be made available to the client. Informal
+resources that include families and friends,
+religious leaders, traditional healers, community
+organizations and peer groups are also important.
+The counsellor can also encourage the formation
+of other resources and support where necessary.
+Information about these resources should be
+available to the client in the counselling session
+as well as being available in other formal and
+informal settings. The counsellor can help the
+client negotiate these resources and sometimes
+act as an advocate for the client. In addition, the
+counsellor can also help support the treatments
+and advice given from other resources. A key
+task of the counsellor is to mobilize or create
+additional resources for the HIV infected client.
+Counsellors also need a referral system for
+difficult cases. Links should be made with other
+psychologists and psychiatrists for this purpose. It
+is also very important that other formal and
+informal services know about this HIV counselling
+service. Information about this service should be
+provided to all organizations, both formal and
+informal, that care for someone living with
+HIV/AIDS.
+Self-help Peer Groups
+Self-help peer support networks are a valuable
+addition to counselling. The counsellor can refer
+Counselling for HIV/AIDS 30
+clients to these groups, if they exist, or they can
+help facilitate the formation of such groups. These
+support groups are often formed with the aid of
+nongovernmental organizations. Such peer
+support groups can help the client with issues
+related to particular risk behaviours that need to
+be changed. If peer support groups are not
+available, with the permission of both parties, the
+counsellor can introduce clients to one another, to
+aid in their psychosocial support. Matters that can
+be dealt with effectively through self-help peer
+support groups include:
+• Learning about living with HIV infection.
+Self-help groups are often in a good
+position to provide information and mutual
+support,
+• Helping care-givers and loved ones to
+handle the pressures of day-to-day living
+with sick or distressed people.
+• Deciding how best to talk about HIV/AIDS
+with family, friends and other people
+who can provide support
+• Peer support groups can organize
+discussion and training about how to
+adopt or maintain new risk reduction
+behaviours.
+Counselling for HIV/AIDS 31
+CHAPTER 6:
+VOLUNTARY COUNSELLING AND HIV
+TESTING (VCT)
+IV counselling is a confidential
+dialogue between a client and counsellor
+aimed at enabling the client to cope with
+stress and take personal decisions related to
+HIV/AIDS. The counselling process includes
+evaluating the personal risk of HIV transmission
+and discussing how to prevent infection. It
+concentrates specifically on emotional and
+social issues related to possible and
+actual infection with HIV and AIDS. HIV
+counselling has as its objectives both prevention
+and care. It is important for counsellors to have a
+basic understanding of the HIV antibody tests that
+may be performed, as well as the necessity of
+confirmatory HIV antibody testing. Figure 1
+provides an overview of the HIV counselling
+process.
+H
+Figure 1: STRUCTURE OF THE COUNSELLING PROCESS
+• Greet the patient:
+• Introduce yourself;
+• Emphasise confidentiality;
+• Explain the counseling process
+(What will be done today)
+INTRODUCTDN
+Ask the patient
+• What concerns them;
+• Who else knows;
+• How does it effect their life;
+• Allow “ventilation”
+ASSESSMENT
+Working TOGETHER:
+• Identify first and later priorities;
+• Identify options for immediate management, and needs for later
+management;
+• Emphasise prevention;
+• Identify other appropriate support;
+• Encourage the client in “taking charge”
+INTERVENTION
+• Summarise what had happened and
+What is left to do;
+• Emphasise the “open door”;
+• Check and clarify the patient’s understanding’
+SUMMARY
+Counselling for HIV/AIDS 32
+Antibody Testing
+Any blood test used to detect HIV infection must
+have a high degree of sensitivity (the probability
+that the test will be positive if the patient is
+infected) and specificity (the probability that the
+test will be negative if the patient is uninfected).
+No antibody test is ever 100 % sensitive and
+specific Therefore, if available, all positive test
+results should be confirmed by retesting,
+preferably by a different test method. HIV
+antibody tests usually become positive within 3
+months of the individual being infected with the
+virus (the window period). In some individuals, the
+test may not be positive until 6 months or longer
+(considered unusual). Tests for HIV detect the
+presence of antibodies to HIV, not the virus itself.
+The three main objectives for which HIV antibody
+testing is performed are:
+• screening of donated blood;
+• epidemiological surveillance of HIV
+prevalence;
+• diagnosis of infection in individuals.
+Screening of donated blood accounts for the
+majority of HIV tests performed in Pakistan. It is a
+highly cost effective preventive intervention as the
+transmission of HIV through infected blood is at
+least 95%.
+HIV testing was initially used for clinical
+confirmation of suspected HIV disease. More
+recently, people have been encouraged to attend
+voluntary counselling and testing (VCT) services
+to find out their HIV status. It is hoped that if
+people know their HIV status and are seronegative,
+they will adopt preventive measures to
+prevent future infection. If the person is seropositive,
+it is hoped that they will adopt risk
+reduction behaviours, learn to live positively,
+access care and support at an earlier stage, and
+plan for their own and their family's future.
+Antibody tests:
+Traditionally, HIV testing has been done using
+ELISA. However, there are various essential
+requirements for ELISAs to be performed
+accurately:
+1. Laboratory equipment (eg. pipettes, microtitre
+trays, incubators, washers, and
+ELISA readers) must be available.
+2. Constant supply of electricity and regular
+maintenance of equipment.
+3. Skilled technicians.
+4. Accurate storage and testing
+temperatures.
+Recent advances in technology have lead to
+various simple rapid tests being developed. Most
+of these tests come in a kit and require no
+reagent, equipment, training or specified
+temperature controls. Single tests can be
+performed at any time. These tests are as
+accurate as ELISA and the results can be
+received within hours. In Pakistan, the Rapid
+Single Test method is most widely used, with
+confirmation of an equivocal or sero-positive test
+usually being performed with ELISA. One
+advantage of the Single Rapid Test is that, in
+some circumstances, the client can wait for the
+result. It has been found that if the test result is
+delayed, some clients do not return for their
+result.
+False positive result:
+HIV tests have been developed to be especially
+sensitive and consequently, a positive result will
+sometimes be obtained even when there are no
+HIV antibodies in the blood. This is known as a
+false positive, and because of this, all positive
+results must be confirmed by another test
+method. A confirmed positive result means that
+the individual is infected with HIV.
+False negative result:
+This situation occurs when the blood tested gives
+a negative result for HIV antibodies when it
+should really have been positive, as the person is
+infected. The likelihood of a false negative test
+result must be, discussed with patients if their
+history suggests that they have engaged in
+behaviour that are likely to put them at risk of HIV
+infection. In this situation, repeated testing over
+time may be necessary before they can be
+reassured that they are not infected with HIV. The
+most frequent reason that a false negative test
+result has been obtained is that the individual is
+newly infected (ie. the window period) and is not
+yet producing HIV antibodies. However, it is
+important to remember that someone who has
+Counselling for HIV/AIDS 33
+tested negative for HIV, can become infected the
+following day.
+Pre-test Counselling
+Pre test counselling should focus on two main
+topics: (a) the person's personal history of risk
+behaviours or having been exposed to HIV, and
+(b) assessment of the person's understanding of
+HIV/AIDS (including modes of transmission), and
+the person's previous experiences in crisis
+situations. The aim of pre-test counselling is to
+provide information about the technical aspects of
+testing and the possible personal, medical, social,
+psychological and legal implications of being
+diagnosed as either HIV positive or negative.
+Information should be up to date and given in a
+manner that is easy to understand. Testing of
+blood donors is different from testing of those
+suspected of having HIV/AIDS, however, both
+require enquiring about risk behaviours. Testing
+should be discussed as a positive act that is
+linked to changes in risk behaviour, coping and
+increasing the quality of life.
+Components of Pre-test
+Counselling: (see Appendix C for counsellor pretest
+checklist).
+Assessment of risk: Assessing the likelihood
+that the person has been exposed to HIV includes
+considering:
+• Frequency and type of sexual practices, in
+particular, high risk practices such as
+vaginal and anal intercourse without a
+condom or unprotected sex with
+commercial sex workers.
+• Being part of a group with high-risk
+prevalence for HIV infection (eg.
+intravenous drug users, male and female
+commercial sex workers and their clients,
+prisoners, refugees, migrant workers, long
+haul lorry drivers, homosexual and
+bisexual men). In addition, health care
+workers and carers are at risk for HIV
+infection where the practice of universal
+precautions is problematic.
+• Having received a blood transfusion,
+organ transplant, blood or blood products
+where HIV screening has not occurred. It
+should be noted that with even the most
+sensitive screening measures, some HIV
+infected blood may get into the general
+system.
+• Having been exposed to non-sterile
+invasive procedures such as tattooing,
+scarification, and male circumcision
+Assessment of understanding: The
+following questions should be asked in assessing
+the need for HIV testing:
+• Why is the test being requested?
+• What are the behaviour patterns or
+symptoms of concern?
+• What does the person know about the test
+and its uses?
+• What are the person's beliefs and
+knowledge about HIV transmission and its
+relationship to at risk behaviours?
+• Who could provide emotional and social
+support (e.g. family, friends, etc)?
+• Has the person sought VCT before, if so,
+when, from whom, for what reason and
+what was the result?
+• Has the person considered what to do, or
+how he/she would react if the result is
+positive, or if it is negative?
+• Table 1 provides a checklist of issues to
+be discussed with the client in pre-test
+counselling (see Appendix C for a pre-test
+counselling checklist).
+Preparation for HIV testing: Effective pre test
+counselling will prepare the person for the test by:
+• Discussing confidentiality and informed
+consent for the HIV test;
+• Explaining the implications of knowing one
+is or is not infected;
+• Exploring the implications for marriage,
+pregnancy, finances, work, stigma etc;
+Counselling for HIV/AIDS 34
+• Facilitating discussion about ways to cope
+with knowing one's HIV status (eg. has the
+person considered what to do or how
+she/he would react if the test is positive, or
+if the test is negative?);
+• Promoting discussion on sexuality and
+sexual practices;
+• Correcting myths, misinformations and
+misunderstandings related to HIV/AIDS.
+• Promoting discussion on relationships
+especially the benefits of shared
+confidentiality between the person and
+his/her loved ones;
+• Promoting discussion on sexual and drug
+related risk behaviours (as appropriate);
+• Exploring emotional coping mechanisms
+and the availability of social support;
+• Explaining how to prevent HIV
+transmission;
+HIV counselling helps the person make informed
+choices. However, it is important to note that
+people who do not want pre-test counselling
+before taking the HIV test should not be required
+to do so. In addition, a decision to be tested
+should be an informed decision. Informed consent
+implies awareness of the possible implications of
+a test result (including the window period). Figure
+2 provides a framework for pre and post-test
+counselling.
+Counselling for HIV/AIDS 35
+• Empahsise confidentiality
+• Explore reasons for testing
+• Explore risk history:
+o Unsafe sex - self and of partner
+o Injecting drug use - self and of partner
+o Blood/blood products/transplants
+received
+o Possibly non-sterile procedures-
+Tattooing, injections, scarification,
+circumcision
+• Explore the significance of the “Window period”
+and the time elapsed since last risk exposure
+• Explore and clarify HIV/AIDS knowledge
+• Explore HIV test understanding and implications:
+o Marriage
+o Pregnancy
+o Relationships (eg. Does the partner know
+about the testing?)
+o Work
+o Stigma
+o Finance
+o Emotional coping
+o Social support available
+Figure 2:
+HIV Table 1: PRE-TEST COUNSELLING CHECHLIST
+• Explore and clarify knowledge about
+the test and testing procedures
+• Discuss the value of testing:
+o If negative
+􀂃 A platform for
+constructive change
+􀂃 Confirms lack of
+antibodies
+􀂃 Remove uncertainty
+􀂃 If positive
+􀂃 A platform for constructive
+change
+􀂃 Certain knowledge
+􀂃 Protect self and partner
+􀂃 Plan for own and lovedones
+future
+• Discuss who should know the result if
+positive, and how they might be told
+• Assess strategies for coping in the
+shorter and longer term
+• Previous experience in managing
+health and other personal crises
+• Discuss future prevention
+o Safe sex and condom use
+o Clean needle use
+o Options for managing risk
+situations
+Counselling for HIV/AIDS 36
+PRE-Figure 2: TEST AND POST-TEST VOLUNTARY TESTING AND COUNSELLING (VCT)
+Symptoms or worries requesting HIV status
+Counselling before testing, including assessment of risk behaviour, psychosocial conditions, and
+provision of oral and written factual information
+Providing time to consider
+Blood test declined Blood sample taken
+HIV Negative
+Reinforcing appropriate
+behaviour and encouraging
+change of inappropriate
+behaviour
+Blood sample taken
+HIV Positive
+Breaking the news sensitively;
+Assessing capacity to manage news;
+Providing time for discussion;
+Helping to adjust to situation and making
+appropriate and reasonable plans
+Explaining that even in a low risk
+situation, care needs to be taken
+to avoid infection and possible
+transmission Providing on-going counseling that involves
+family, friends or others;
+Mobilising family and community support;
+Identifying other sources of support’
+Encouraging responsible behaviour
+Providing continuing counseling,
+Including stimulating motivation to reduce risks
+of transmission, where appropriate, identifying
+other sources of support, including medical,
+hospital, and possibly hospice care
+Counselling for HIV/AIDS 37
+Benefits of pre-test counselling: Access to pretest
+counselling is not always available and some
+people might refuse this option. However, if the
+test is positive, there are considerable benefits to
+providing this service which include:
+• Improved acceptance of HIV status and
+ability to cope.
+• Empowerment, including greater
+involvement of the PLA in their care.
+• Facilitation of behavioural change.
+• Reducing the risk of mother-child
+transmission.
+• Early management of opportunistic
+infections, contraceptive advice and other
+information and education.
+• Provision of early social and peer support.
+• Normalizing and de-stigmatising
+HIV/AIDS.
+• Instilling hope and addressing the quality
+of life issues for the PLA.
+• Planning for future care, making a will and
+considerations for future childcare.
+Figure 2 provides a flow chart of the pre-test and
+post-test counselling process.
+Post-test Counselling
+The counselling session should begin by trying to
+put the person at ease. If possible, the room
+should be quiet, without the fear of being
+disturbed. Arrange the chairs so that bright light
+will not shine in anyone's eyes. The counsellor
+should then tell the person the test result in a
+clear and direct manner. The result (either
+positive or negative) should then be discussed,
+including how the person feels about the result.
+Providing further information might be necessary
+although the person may be shocked (no matter
+what the result), and may not fully take in all the
+information. However, in some circumstances,
+this might be the only chance to counsel this
+person and so asking them to repeat the
+information, or have some basic facts written
+down will be helpful (see Appendix F for basic
+client information sheets). It is important for the
+person to have time to reflect on the result and
+understand the next course of action. Ideally,
+couple and/or family counselling should be
+started and further counselling follow-up
+arranged.
+HIV-positive Test Result Counselling
+(The positive test result will only be given after the
+second HIV test confirms a positive result.) The
+counsellor should tell the person as gently as
+possible, providing emotional support and
+discussing how best to cope with the result. This
+is not the time for speculation, but time to give
+clear, factual explanations of what the news
+means. Assess the emotional impact of the news
+and validate the person's reactions as normal.
+Fear of dying, job loss, family acceptance,
+concern about the quality of life, the effects of
+treatment and response by society might be
+explored (see psychosocial aspects of HIV
+counselling Chapter 4 of these guidelines). If
+there is a concern that the person might not
+return for follow up counselling, then information
+about relevant related services might be included,
+such medical treatment for opportunistic
+infections, social services for financial and
+ongoing psychosocial support etc (see section on
+resource networks in Chapter 5 of these
+guidelines). However, if follow up counselling is
+an option, then it would be advisable to leave this
+information to a later date when the person is
+more able to absorb the details and explore some
+options. Assess the person's understanding and
+ability to use preventive methods. Free condoms
+can be given out during this session together with
+advice on how to use them and where to get
+more. Figure 3 provides a flow chart of the
+counselling process after a positive result, table 2
+provides a checklist of issues to discuss with the
+client and Appendix D provides a counsellor
+checklist
+.
+Counselling for HIV/AIDS 38
+• Renew relationship
+• Follow patient’s lead when to disclose
+• State result clearly
+• Wait:
+o Give time to absorb information
+o Give time for expression of feelings
+o LISTEN
+• Integration of test result:
+􀂃 Intellectual
+o Explore understanding
+o Clarify understanding of the result
+􀂃 Emotional
+o Assess emotional impact
+o Validate reactions as normal
+􀂃 Behavioural
+o What will they do next-in immediate future
+o Assess understanding of and capacity for risk reduction
+o Explore factors relating to general health and immune functioning - stress, nutrition,
+exercise, alcohol and drug use, re-exposure to HIV
+􀂃 Interpersonal
+o Review who to inform
+o Review possible impact on partner, family, friends, and employer
+o Review how to break news - offer help and support
+o Plan to maximize support and minimize stress
+􀂃 Medical
+o Plan health checks and early intervention
+o Rationalise attendance for health interventions
+• Arousing hope - Advice and empowerment:
+o A realistically hopeful message about what can be done without discounting their
+concerns
+o Focus on measures to maintain and improve quality of life
+o Empower participation in health issues
+o Express your availability, and the availability of other services, when needed
+• Planning for the future:
+o Possibilities for constructive change
+o Support possibilities in the short term
+o Managing the stress of diagnosis, and reducing the potential for harm arising from stress
+reducing behaviour, such as substance misuse, impulsive behaviours, risky sex
+o Plan to address financial, occupational, legal, domestic, medical needs
+o Identify resources for on-going support, such as individual therapy, support groups,
+social network, spiritual network
+• Provide appropriate brochures and information to take away
+HIV Table 2: POST-TEST COUNSELLING CHECKLIST- POSITIVE RESULT
+Counselling for HIV/AIDS 39
+(After confirmation with second test)
+Introduction: Explore symptoms or worries leading to seeking HIV test
+Pre-Test Counselling: Discussion confidentiality, assessment of knowledge about HIV/AIDS;
+assessment of risk behaviours; examination of psychosocial condition and social support; provision of oral
+or factual information on HIV/AIDS; anticipatory guidance about how the person might respond to the result
+of the test (either positive or negative)
+Provide time for the person to consider whether to take the test or not
+Obtain informed consent and blood test taken
+Post-Test counseling: Assess the capacity to accept news; breaking the news sensitively and clearly;
+Providing time to allow the news to be taken in; exploration of feelings; help the person come to terms with
+the test result; make appropriate and reasonable plans; give basic fact sheet on HIV information. Provide
+free condoms (if available)
+Provide follow-up counseling that involves family, friends or other (at the client’s discretion); help mobilize
+family/community support; identify other sources of support; exploring, promoting and educating for
+responsible behaviour change. Provide free condoms.
+NB: If there is a concern that the person will not return for further counseling, include the counseling
+contained in the following box.
+Provide on-going counseling; encourage peer support; encourage and motivate risk reduction behaviours;
+identify referral services and support (eg. medical, financial, spiritual, sexual health, etc.)
+Figure 3: HIV COUNSELLING POSITIVE TEST RESULT
+Counselling for HIV/AIDS 40
+Counseling Table- Equivocal
+Result
+How news of HIV infection is accepted or
+incorporated often depends on the following:
+• The person's physical health.
+People who are ill often have a
+delayed response and can only
+absorb information when they
+grow stronger
+• How well the person has been
+prepared for the news.
+• How well supported the person
+is, both in the community and
+by family and friends.
+• The pre-test psychological
+condition of the person. Where
+psychological distress existed
+before the result, learning of
+the result could make this
+distress greater.
+• The cultural and spiritual
+values attached to AIDS,
+illness and death. In some
+communities people might take
+a fatalistic attitude, whereas in
+other communities, AIDS is
+sometimes seen as evidence
+of antisocial or blasphemous
+behaviour.
+Counselling and support may need to address
+feelings of shock, fear, loss, grief, guilt,
+depression, anxiety, denial, anger, suicidal
+activity or thinking, reduced self esteem and
+spiritual concerns etc. In addition, social issues
+such as loss of income, discrimination, social
+stigma, relationship changes and changing
+requirements for sexual expression might need to
+be explored. These issues have all been
+addressed at length in the chapter, Psychosocial
+and Cultural Aspects of Counselling"
+Another important consideration is contact
+tracing. HIV infection can only be controlled when
+every effort is made to contact, test, and possibly
+treat the contacts. Contact tracing is a laborious
+task and often problematic. First the client should
+be assured that their name or other identifying
+properties would not be revealed to the contacts.
+Also, the client should be given the option of
+contacting the HIV-infected contacts him/herself.
+The counselor must stress the importance of this
+contact tracing to the client in order to control
+further spread of HIV. Appendix E contains a
+sample partner notification form.
+HlV- negative Test Result
+Counselling
+If the HIV test is negative, then counselling about
+at risk behaviours and methods of prevention are
+vitally important. Also, the counsellor must explain
+about the "window period" (between 3-6 months)
+when a negative result may be a false negative, if
+there is concern about the HIV status of the
+person, counsel them to return for a repeat test in
+3-6 months. Ensure protection in the meanwhile,
+explaining that the client could become infected at
+any time. This is an ideal time to discuss sexual
+practices and preferences and potential drug
+abuse (particularly intravenous drug use) and
+other at risk behaviours. The person will probably
+be more open to learning about safe sex
+practices and modifying risk behaviours and be
+willing to consider necessary behaviour changes.
+Free condoms can be given out during this
+session together with advice on how to use them
+and where to get more when needed.
+Figure 4 provides a flow chart of the counselling
+process for a negative test result, and Table 3
+contains the issues that should be discussed in
+the counselling session. Appendix D contains a
+post-test counselling checklist.
+Counselling for HIV/AIDS 41
+Introduction: Explore symptoms or worries leading to seeking HIV test
+Pre-Test Counseling:
+Discussion about confidentiality, assessment of knowledge about HIV/AIDS; assessment of risk
+behaviours; examination of psychosocial condition and social support; provision of oral or factual
+information on HIV/AIDS; anticipatory guidance about how the person might respond to the result of the test
+(either positive or negative)
+Provide time for the person to consider whether to take the test or not
+Obtain informed consent and blood test taken
+Post-Test counseling:
+Break .the news of the negative test result clearly; provide time for the news to be taken In; explore
+feelings; engage in problem-solving, and decision-making to promote reduction in risk behaviour; provide
+factual information on HIV transmission and demonstrate condom use; request a repeat demonstration o
+condom use; pro vide time for the client to repeat the information provided; explore/assess the capacity of
+the client to make the behaviour changes; explain with window period; refer to other agencies if necessary
+(eg STD treatment, MCH clinic, etc. Provide free condoms (if available)
+Follow-up counseling to monitor and support behaviour changes; encourage peer support; provide further
+information if necessary. If concerned about continued at risk behaviour, explain the window period and the
+chance of still becoming infected, and encourage the client to return in six (06) months for re-testing.
+Figure 4: POST-TEST COUNSELING-NEGATIVE RESULT
+Counselling for HIV/AIDS 42
+• Renew relationship
+• Explain negative result
+o Give time to reflect
+o Allow time to express feelings
+• Explain lack of immunity to future infections
+• Check and confirm understanding of HIV
+• Clarify doubts and misconceptions about HIV and the test
+• Evaluate the need for re-testing (e.g. after the "window period", and/or occupational exposure)
+• Address "survivor" reactions and other, possibly unexpected, emotional responses
+• Identify potential services for onward referral to manage related issues (eg. Risk arising from
+alcohol/drug use)
+• Repeat HIV prevention discussion
+o A platform for constructive change
+o Safe sex and condom use
+o Clean needle use
+o Options for managing risk situations
+o Discussing prevention socially and domestically
+Counselling After an Equivocal Test
+or Positive First Test when a
+Second (confirmatory) Test Should
+be Performed
+There are times when a test is unequivocal
+(uncertain) and a second test must be carried out.
+Also, if the first HIV test is positive, a second,
+different test should be performed to confirm (or
+not) the initial test. Counselling in such
+circumstances will be slightly different from the
+counselling for a positive or negative test result.
+First, the client must be told the news of the
+uncertain test result. It is usual practice to explain
+to the client that the first test is inconclusive, and
+a second (different) test should be performed.
+See figure 5 for the decision flow of counselling
+for this equivocal result. Counselling should then
+follow the same guidelines as those for a negative
+test result (see the previous guidelines for
+counselling of HlV-negative test results).
+Continued Counselling and Support
+The HIV-infected person and his/her family might
+require further counselling and support. Such
+care helps improve their quality of life as well as
+enhancing their ability to cope and make informed
+decisions about ongoing care. Counselling and
+support might include encouraging the PLA to join
+a peer support group where psychosocial and
+instrumental support as well as education and
+treatment options may be addressed (see the
+guidelines for Self-help Peer Groups in the
+Chapter 5, Counselling Skills and Resources).
+Where services exist, further individual/family
+counselling might also be beneficial. In addition,
+referral to other agencies, organizations and
+services will be beneficial (see Developing
+Adequate Resource Network guidelines in
+chapter 5, Counselling Skills and Resources).
+POST-TEST Table 3: COUNSELING CHEKLIST - NEGATIVE RESULT
+Counselling for HIV/AIDS 43
+(Requesting client take a second test)
+Pre-Test Counseling: Discuss confidentiality; explain that the test result is inconclusive, and a second test
+should be taken (using another test method) to ensure accuracy of the result; assess current at risk
+behaviours; or support the behaviour changes the client has made; examine the client's psychosocial
+condition, and social support; provide oral or factual information on HIV/AIDS; provide anticipatory guidance
+about how the person might respond to the result of the test (either positive or negative)
+Provide time for the person to consider whether to take the second test or not
+Obtain informed consent and blood test taken
+Post-Test Counseling: Depending upon the result of the second test, follow the guidelines outlined for
+post-test counseling for positive or negative test results
+Bereavement Counselling
+Families and friends often have little social
+support, or may have become isolated while the
+PLA was very ill. Bereavement support should be
+available before the person dies and for as long
+afterwards as people need it. People react to
+death in different ways and need different types of
+support. For some, it can take months or years to
+come to terms with loss. People's responses may
+be affected by the way the person died. If the PLA
+died alone and in pain this might create a different
+response than if he/she died peacefully,
+surrounded by loved ones. Those left behind
+often blame themselves if they think they could
+have done more. Bereavement counselling
+should:
+• Give people an opportunity to talk about
+events leading up to the death, about the
+death itself and the rituals immediately
+after the death;
+• Reassure people that feelings of disbelief,
+denial, sadness, pain and anger are
+normal;
+• Provide people with the opportunity to
+express their feelings and concerns,
+especially if it is difficult for them to do this
+with friends and family;
+• Enable family members and others to
+accept the reality of their loss and start to
+look to the future.
+(See the guidelines for counselling under
+Psychosocial Perspectives in the chapter 4
+"Psychosocial Aspects of Counselling").
+HIV COUNSELLING WHEN FIRST TEST IS POSITIVE, OR WHEN THE FIRST TEST
+IS EQUIVOCAL
+Figure 5:
+Counselling for HIV/AIDS 44
+COUNSELLING AND EDUCATION
+HIV counselling and education have much in common,
+such as their joint dependence on the ability of the
+provider to communicate effectively, the role of
+providing accurate information on HIV prevention
+and care, the need to be culturally sensitive, and
+the need to assess the knowledge of the client
+before providing information. However, there are
+also considerable differences between counselling and
+education. Counselling is a confidential communication
+that is provided in response to the needs of the client
+and that provides emotional support in order to assist
+individuals and families who may have HIV-related
+problems or concerns. The following table outlines
+these differences:
+EDUCATION
+COUNSELLING
+• Provides verbal information in a timely manner
+(on a need to know basis);
+• Provides written information at an appropriate
+level of understanding;
+• Reinforces learning by demonstration and repeat
+demonstration;
+• Role plays various educational strategies;
+• Reinforces learning by requesting the client to
+repeat information;
+• Supports and motivates clients to undertake
+necessary behavioural change.
+• Attends to the emotional needs of the client;
+• Clarifies client's issues and concerns;
+• Asks open-ended questions to fully explore
+client's concern;
+• Supports the client to fully explore concerns
+related to risk behaviours;
+• Summarizes and paraphrases salient issues ' of
+concern;
+• Responds to client's needs for support and care;
+• Encourages client to seek support from others
+(ie. Support groups);
+• Makes necessary referrals to other care providers
+at the client's request.
+Counselling for HIV/AIDS 45
+It should be noted that although important
+differences exist between these two important
+skills, the HIV counsellor must be familiar with,
+and capable of conducting both. That is, the
+counsellor is both an effective interpersonal
+communicator and an educator. Prevention of
+HIV transmission requires that the counsellor be
+an educator, and a motivator to promote
+necessary behavioural change.
+Behavioural Change
+Throughout the world, a considerable
+amount of literature has been devoted to the
+psychological aspects of behavioural change. To
+summarize this literature, there is general
+agreement that promoting and ensuring
+necessary behavioural change is very
+challenging. In issues related to the prevention of
+HIV transmission, the adoption of necessary
+behavioural change is essential. Counsellors
+must judge how best each client will respond to
+changing at-risk behaviours. There is no set
+formula that will ensure changes in behaviour.
+Therefore, each client must be assessed to
+ascertain which counselling and motivational
+methods will be most effective. Usually, clients
+respond to support, encouragement and
+motivation. However, some clients respond better
+when challenged and confronted by their risk
+behaviours (see Chapter 5 for specific counselling
+skills). Some factors that might influence
+behavioural change in HIV positive clients
+include:
+• The need to protect his/her family from
+HIV transmission;
+• The need to appear trustworthy and
+responsible within his family and
+community;
+• The desire to protect others (eg. sex
+partners, injecting drug users etc.) from
+HIV infection;
+• The client's expressed desire to make
+necessary changes to his/her behaviour;
+• Evidence that prolonged risk behaviour
+might contribute to further deterioration in
+his/her health;
+• The fear of further infecting him/herself
+with HIV or other STDs;
+• The fear that their risk behaviour will
+become known to the community;
+• The fear of stigma and isolation by loved
+ones, and the general community if the
+risk behaviours continue;
+Counsellors can assess which of these factors
+are present in each counselling session and
+promote behavioural change, based on the
+particular needs and desires of the client. It
+should be noted that other issues (not listed here)
+might also be the motivating factor leading to
+behavioural change. The important counselling
+strategy is one that highlights the factor that is
+most likely to promote behavioural change, and
+uses this factor to support and encourage risk
+reduction. Motivation, support and
+encouragement will be necessary over time, to
+help sustain behavioural change. Also, the
+counsellor should assess the cues that might
+trigger behavioural change in each session.
+Patient information should be provided (see
+Appendix F).
+The Use of Condoms
+The safest form of prevention of sexually
+transmitted HIV is abstinence. However, in most
+instances, such practices are neither realistic nor
+desirable. Barrier methods that prevent semen
+and other body fluid from passing from one
+partner to another are the next most effective
+preventive methods. These barrier methods also
+reduce the risk of STDS, however, they also act
+as a contraceptive. The most effective barrier
+method is the male condom. The female condom
+is also effective, however, this barrier method is
+less available of acceptable.
+Male condom: the male condom is placed over
+the erect penis before any penetration has
+occurred. The condom then remains on the penis
+until after ejaculation when it should be
+immediately removed, knotted and discarded in a
+safe place such as a toilet, latrine or in a safe
+disposal unit. It is vitally important that people are
+given accurate information and an opportunity to
+practice using condoms. Information should be
+given about how to place the condom on the erect
+penis, leaving a space at the top to receive the
+Counselling for HIV/AIDS 46
+ejaculate, how to unroll the condom down the
+shaft of the penis to the base, how to ensure that
+the condom remains in place throughout
+intercourse, and how to remove the condom
+before the penis loses its erection. Practice using
+condoms on a model or other article (such as a
+banana or cucumber etc) are important. A new
+condom must be used for each sexual act and
+any damaged condom should be removed
+immediately and a new one applied. It is essential
+to have free, or very cheap condoms available in
+places where people can access them in private
+and without embarrassment. Easy access to
+condoms should be available for both men and
+women.
+Counselling Strategies: Counsellors should feel
+comfortable with discussing male condom use
+and with demonstrating, on a model, how the
+condom should be applied and removed. The
+counsellor should ask the client to repeat the
+demonstration.
+Female condom: The female condom is a soft
+yet strong polyurethane sheath, about the same
+length as the male condom, but wider. A plastic
+ring at the closed end helps keep the condom
+fixed within the vagina during sex. A larger ring at
+the opening stays outside the vagina, spreading
+over the woman's external genital area. The
+female condom provides extra protection to men
+and women because it covers both the entrance
+to the vagina and to the base of the penis. These
+are areas where STD sores make it easy for HIV
+to enter. Female condoms should only be used
+once and do not need a prescription. However,
+they are more expensive than male condoms and
+not as easily acceptable or accessible. Because
+the external ring is visible outside the vagina,
+using a female condom might require the
+agreement of both partners. However, because it
+can be inserted hours before intercourse, it can
+provide protection in situations where
+consumption of alcohol or drugs may reduce the
+chances that a male condom will be used. The
+condom is inserted with the finger, making sure
+no damage is done to the polyurethane by
+fingernails or other sharp objects. The condom
+should then fit snugly against the cervix. During
+intercourse, it is necessary to guide the penis in
+or check that the penis has entered the condom
+and not entered the vagina outside the condom
+wall The condom should be removed as soon as
+possible after male ejaculation and disposed of in
+the same ways as the male condom.
+Counselling Strategies: It is important for the
+counsellor to ascertain whether the female
+condom is available in his/her area, if the condom
+is available, then this option should be provided to
+the client with a description on how to use the
+condom and how to discard the condom after
+use.
+Other barrier methods: There are other barrier
+methods that help reduce the sexual transmission
+of HIV, but these are less reliable, and often not
+as easily available. The female diaphragm
+prevents semen from entering the cervix,
+however, it does not protect the vagina or the
+external genitalia from exposure to HIV.
+Injecting Drug Users and other
+Mood Altering Drugs
+HIV can spread very rapidly among injecting drug
+users (IDU), and thus to their sex partners and
+eventually to their children. However, this spread
+can be prevented or slowed down significantly if
+interventions are designed which take into
+account the specific local conditions and
+characteristics of the IDUs. Injecting drug users
+are usually a hidden and stigmatised group
+because their behaviour is illegal. Often caught in
+a cycle of poverty and faced with the cost of the
+drugs, lUDs often engage in criminal activities
+such as theft, and in high risk behaviours for HIV
+infection such as commercial sex work and paid
+blood donation. The only effective responses to
+HIV transmission among IDUs to date are those
+based on the philosophy of harm reduction. Harm
+reduction is compatible with proven public health
+principles, and need not conflict with demand and
+supply reduction (law enforcement) programs.
+Harm reduction programs approach drug abuse
+primarily as a public health rather than a law and
+order issue. Such programs take into account;
+Promoting use of sterile equipment:
+The most common pathway for HIV transmission
+among IDUs is the sharing of non-sterile injecting
+equipment. Scarcity, or lack of access to safe
+injecting equipment, and legal sanctions against
+possessing injecting equipment are the two main
+reasons for reusing or sharing needles and
+syringes. Another reason is ignorance of the risks
+of HIV infection and prevention methods. The two
+Counselling for HIV/AIDS 47
+most basic strategies that have proven effective
+are:
+• The sale (at minimum cost), or free supply
+of needles and syringes through
+pharmacies or other outlets; and
+• Needle and syringe exchange programs.
+These exchange programs must be linked to
+ensure that dirty syringes and needles are
+exchanged for sterile ones. In addition, a vital
+principle for community acceptance of these
+programs is to ensure that needles and syringes
+are safely and discretely disposed of after use,
+and do not pose a threat to the general
+population.
+Harm reduction: Ball (1998) recommends a
+hierarchy of decision making related to the
+prevention of HIV through injecting drug use. At
+the top of the risk hierarchy is the indiscriminate
+sharing of injecting equipment, while at the
+bottom is abstinence from all drug use. In moving
+down the hierarchy, towards lowering risk,
+prevention programs may be initiated to promote
+behaviour change in:
+• Reducing the frequency of sharing, and
+the number of sharing partners,
+• Cleaning injecting equipment with bleach,
+• Not sharing injecting equipment.
+• Using sterile needles and syringes, and
+not sharing other equipment,
+• Changing from the injection of illicit drugs
+to use of non-injecting drugs,
+• Reducing the frequency of non-injecting
+drug use, and
+• The abstinence from all drug use.
+This hierarchy of decision-making can be a useful
+framework to consider HIV prevention programs.
+However, it should be noted that people do not
+fall neatly into one of these categories. For
+example, a person may regularly engage in a
+needle and syringe exchange program, but,
+because of unforeseen circumstances, finds
+him/herself sharing used injecting equipment.
+This hierarchy also assumes that there is
+collaboration between the principles of public
+health (ie. safe injection practices) and law
+enforcement. This is not often the case. In order
+for HIV prevention programs to be effective,
+national and local policies must achieve a
+balance between attempts to reduce the supply
+and use of illicit drugs and support efforts to
+decrease unsafe injection practices.
+The principles of harm reduction that have been
+proven effective in reducing HIV transmission in
+IDUs include:
+• Education, especially peer education and
+counselling;
+• Promotion of the use of sterile injecting
+equipment for every injection; increasing
+the availability of equipment; removing
+barriers to access to use of sterile
+equipment (especially policing and legal
+barriers);
+• Increasing drug treatment availability,
+accessibility and options;
+• Increasing access to primary health care,
+particularly through services designed to
+be "friendly" to, and appropriate for, the
+IDU community;
+• Research and education performed in
+collaboration with the affected community.
+Other mood altering drugs: It is important to
+note that although IDU carries the greatest risk of
+HIV transmission, taking other mood altering
+drugs can also promote at risk behaviours.
+Alcohol, and other legal and illegal drugs taken
+orally or as an inhalant can affect a person's
+decision-making capacity. In such circumstances,
+the use of condoms is less likely, and other risk
+behaviours and sexual practices might occur.
+Counselling Strategies: The risk of HIV
+transmission is greater in the drug taking
+population because of the risks of injecting drug
+use, taking other mood altering drugs, and the
+practice of unprotected sexual relationships with
+potentially HlV-infected partners. Such
+counselling requires sensitivity (see Chapter 5),
+challenging the risk behaviours (see Chapter 4),
+and promoting risk reduction behavioural change
+discussed earlier in this chapter. The counsellor
+Counselling for HIV/AIDS 48
+should review the guidelines on effective
+communication, sensitivity, challenging (Chapter
+5), and promoting behavioural change before
+he/she undertakes counselling with this group of
+high-risk clients.
+Blood safety
+There is a 90-95% chance that someone
+receiving blood from an HIV infected person will
+contract HIV. While millions of lives are saved
+each year through blood transfusions, in countries
+where a safe blood supply is not guaranteed,
+recipients of blood run an increased risk of HlVinfection.
+However, this risk can be virtually
+prevented by a safe blood supply, and by using
+blood transfusions appropriately. Difficulties
+hindering a safe blood supply include:
+• Lack of a national blood screening policy
+and plan;
+• Lack of an organized blood
+transfusion service;
+• Lack of safe donors or the presence of
+unsafe donors;
+• Lack of blood screening; and
+• Unnecessary or inappropriate use of
+blood.
+Minimizing the risk of HIV infected blood
+transfusions: Regulations on blood donations,
+screening and transfusions are essential.
+Pakistan is in the process of ratifying such
+national regulations. It is then essential that these
+regulations be rigorously enforced. Three
+essential elements must be in place to ensure a
+safe blood supply:
+• There must be a national blood
+transfusion service run on non-profit lines
+that is answerable to the ministry of
+health.
+• Wherever possible, there should be a
+policy of excluding all paid or professional
+donors, but at the same time, encouraging
+voluntary (non-paid) donors to come back
+regularly. People are suitable donors only
+if they are considered to have a low risk of
+infection.
+• All donated blood must be screened for
+HIV, as well as for hepatitis B and syphilis
+(and hepatitis C where possible).
+Selecting blood donors: Paid donors very often
+come from the poorest sectors of society. They
+may be in poor health, undernourished and at risk
+of having infections that can be passed on
+through transfusions. In some places, paid donors
+sell blood mainly to buy drugs to inject
+themselves (often with shared, unsterile
+equipment). In addition, paid donors are more
+likely to give blood too often, with the result that
+their blood may be substandard, and the donors
+are likely to damage their own health.
+In some countries, the use of replacement donors
+has also been found to be problematic. In the
+replacement donor system, families of people
+needing a transfusion are asked to donate the
+same quantity as that given to their relation. This
+blood may be used directly for the relative, or
+placed in the general pool. In Pakistan, the
+replacement donors system accounts for the
+largest quantity of donated blood.
+The safest type of blood donor is the voluntary,
+unpaid donor. Such donors donate their blood for
+humanitarian reasons and are more likely to meet
+national criteria for low-risk donors. Every effort
+should be made to educate, motivate, recruit and
+retain low-risk, unpaid donors. Systems are being
+put in place to encourage voluntary, unpaid
+donations from the general public in the larger
+areas of Pakistan.
+Benefits of VCT In blood donor services: A
+fully implemented blood donor information and
+counselling programme has the following
+potential benefits:
+• Wastage of blood units collected and
+wasted costs from collection of HIVinfected
+blood would be minimized.
+• Blood donor HIV prevalence would be
+reduced to below the national average.
+• An uninfected donor pool would result.
+Health care workers who are planning to start a
+blood screening programme with adequate client
+information, and pre and post HIV test counselling
+Counselling for HIV/AIDS 49
+should refer to the following literature: Blood
+Safety and AIDS. UNAIDS Points of View. UN
+AIDS Best Practice Collection, October 1997.
+Guidelines for blood donor counselling on human
+immunodeficiency virus (HIV). Joint publication by
+the International Federation of Red Cross and
+Red Crescent Societies &amp; World Health
+Organization, Geneva, 1994.
+The following flow chart provides a visual
+representation of the stages to be undertaken in
+blood donor counselling. Figure 6 provides a
+flowchart of the blood donation counselling cycle.
+Counselling for HIV/AIDS 50
+Counselling for HIV/AIDS 51
+There is no guarantee that blood can be 100% free
+of HIV, however, with political commitment, good
+organization, sufficient funding and donation of
+blood from low-risk, voluntary, non-paid donors, the
+risks can be reduced to a minimum.
+Counselling Strategies: Pre-test counselling for
+blood donors should start by providing the potential
+blood donor with adequate information about HIV,
+and how it is transmitted. This should be followed by
+using the same guidelines as pre-test counselling
+for clients requesting an HIV test (see Chapter 6).
+Although these two populations might be very
+different in terms of their risk behaviour, the same
+counselling protocol should apply. It cannot be
+assumed that blood donors are a low-risk
+population. However, sensitivity is required to ask
+some of the very personal questions related to
+sexual activity and injecting drug use. Questions
+should also be raised about previous blood
+donation, and whether the client has received a
+blood transfusion in the past. Depending on the
+literacy level of the person, the client can complete
+a checklist form (see Appendix C) him/herself which
+can then be given to the person drawing blood. If
+the client is illiterate, then the questions on the
+checklist must be asked in person. It is often the
+case that when a person is confronted by these
+questions, if there is any doubt about whether their
+behaviours might put them at risk for HIV, they
+select to withdraw their offer of donating blood.
+Although the blood is screened for HIV, such pretest
+counselling is essential Should the client be
+found to be HIV positive, every effort should be
+made to contact this person, and provide post-test
+counselling (see Chapter 6). If post-test counselling
+is not available in the blood donor clinic, the person
+should be referred to a setting where post-test
+counselling can be carried out. Contact tracing
+should also be carried out using the contact tracing
+form (see Appendix E, Partner Notification Form).
+Skin piercing practices
+Skin piercing practices such as male circumcision,
+other invasive surgery, and tattooing with un-sterile
+equipment infected with HIV are other important
+sources of HIV transmission. Counsellors should be
+aware of these practices and help educate the
+public about the risk of HIV transmission.
+Counsellors can play an important role in public
+education, and raise the awareness of using unsterile
+equipment. Because it is impossible to know
+if instruments or needles are infected with HIV,
+counsellors should promote the practice of
+sterilization of all surgical and medical equipment.
+The counsellor should refer to information on
+universal precautions to become more familiar with
+this practice.
+Health care workers are also at risk for HIV
+transmission through needle sticks and other skin
+piercing accidents. In addition, it is possible to
+contact HIV though the mucous membranes, thus
+any splashes to the eyes, or in the mouth with HIV
+infected blood should be rinsed immediately.
+Because it is impossible to be sure whether a
+patient is infected with HIV, universal precautions
+should be carried out in all patient care. It is beyond
+the scope of the counsellor to educate health care
+workers about universal precautions. However, the
+counsellor can play an important role in raising
+awareness about this problem. In addition, if a
+health care worker does report a skin piercing injury,
+or blood or mucous splash to the mouth or eyes, the
+counsellor can play an important role in pre-test and
+post-test counselling.
+Counselling Strategies: An important role the
+counsellor can perform is to raise the awareness of
+the general public and health care workers about
+the potential hazard of contracting HIV through skin
+piercing practices or accidents. The promotion of
+universal precautions should also be promoted.
+Health care workers should be encouraged to report
+accidents where transmission of HIV is possible. If a
+health care worker reports such an accident, the
+counsellor should then conduct pre-test counselling.
+The details about sexual activity or potential
+injecting drug use are not as important in this
+instance. Instead, it is very important to write a
+detailed report that highlights how the accident
+occurred. The worker should then undergo an HIV
+test. It is important to remember that HIV antibodies
+can take from 3-6 months to be detectable in the
+blood, and so the health care worker should be
+encouraged to return for a second HIV test in 3
+months' time. The first test will be used as a
+baseline for a sero-negative status. Such accidents
+should be reported to the hospital/clinic
+administration. If possible, prophylactic antiretroviral
+therapy should be given. The practice of
+universal precautions is problematic in Pakistan,
+and counsellors (and others) have a responsibility to
+raise the awareness of this problem and to promote
+behavioural change.
+Counselling for HIV/AIDS 52
+POPULATIONS WITH SPECIAL
+NEEDS
+lthough HIV transmission is possible in
+every segment of society, there are certain
+populations that are at particular risk.
+These populations include women, children,
+families, health care workers, long haul lorry
+drivers, migrant workers, commercial sex
+workers, homosexuals, bisexuals, and
+transvestites. This chapter will focus on the
+special needs of women, couples and families.
+Guidelines related to counselling for the potential
+HIV transmission in health care workers were
+addressed in Chapter 7. Counselling for other atrisk
+populations was addressed in Chapters 5, 6
+and 7. These previous chapters addressed
+guidelines for effective counselling for at-risk
+populations, and issues related to voluntary
+testing and counselling.
+The Vulnerability of Women
+AIDS prevention campaigns often fail by women
+assuming that they are at low risk, or by urging
+prevention methods that women have little or no
+power to apply, such as condom use, abstinence
+and mutual faithfulness within a relationship.
+Women continue to make strides towards equality
+with men. However, for millions of women, this is
+far from reality. These women are the most
+vulnerable to HIV infection. In Pakistan, although
+movements are being made toward greater
+equality of women, this is still far from a reality.
+Women are often dependent on their husbands
+for the financial livelihood of themselves and their
+children. In addition, many women have little
+power or control in family affairs. This situation
+leads women to having very little negotiating
+power with their husbands, particularly when it
+comes to negotiation about safe sex practices
+and the use of condoms. Even when a woman
+knows that her husband has engaged in high risk
+practices (such as casual, unprotected sex with
+others, or injecting drug use), she has little
+negotiating power to protect herself from
+infection.
+Women are particularly vulnerable to HIV
+infection for the following reasons:
+Biological Vulnerability: Research shows that
+the risk of becoming infected with HIV during
+unprotected vaginal intercourse is as much as 2-4
+times higher for women than men. Women are
+also more vulnerable to other STDs (multiplying
+the risk of contracting HIV 10-fold). One of the
+major reasons for this is that women have a
+bigger surface area of mucosa (the thin lining of
+the vagina and cervix) exposed to their partners
+secretions during sexual intercourse and semen
+infected with HIV typically contains a higher
+concentration of virus than a woman's sexual
+secretions. Younger women are even more at risk
+because their immature cervix and scant vaginal
+secretions put up less of a barrier to HIV. Also,
+they are prone to vaginal mucosa lacerations.
+There is also evidence that women again become
+more vulnerable after menopause. In addition,
+tearing and bleeding during intercourse whether
+from "rough sex", or rape multiplies the risk of HIV
+infection. Anal intercourse (sometimes preferred
+because it is thought to preserve virginity, and
+avoids the risk of pregnancy) often tears the
+delicate anal tissues and provides easy access to
+the virus.
+Social and economic vulnerability:
+Prevention messages urging abstinence, fidelity
+(faithfulness to one partner), condom use, needle
+exchange programs (for intravenous drug users)
+and encouraging and enabling people to get
+prompt STD treatments have all helped avoid
+HIV. However, for millions of women, their ability
+to make these decisions and to act upon them is
+crippled by their socio-economic circumstances.
+The majority of women lack economic resources,
+and are fearful of abandonment or violence from
+their male partner. Thus they have little or no
+control over how and when they have sex, and
+hence over their risk of becoming infected
+A
+Counselling for HIV/AIDS 53
+with HIV. This vulnerability is compounded by:
+• Traditional norms and values: In
+Pakistan, the majority of women are
+expected to stay home and raise their
+family. Although this is an important family
+value, this often places the woman at an
+economic disadvantage. Thus the power
+she has in the relationship could be
+reduced, and the possibility of negotiating
+for safer sex practices is also at risk.
+• Lack of education: Millions of young girls
+are brought up with little knowledge of
+their reproductive system or how HIV and
+STDs are transmitted (and prevented).
+• Sexual customs and norms:
+Typically, women are expected to leave
+the initiative and decision-making in sex to
+males whose needs and demands are
+expected to dominate. There is often a
+tolerance for a double standard in that
+women are blamed or abandoned for
+infidelity (real or suspected), while such
+practices are tolerated in men.
+• Lack of economic opportunities: Failure
+to respect the rights of women to equal
+access to education and employment
+opportunities reinforces their dependence
+on men. Women commercial sex workers
+view sex as a "currency".
+• Lack of control In relationships: Even
+when a woman suspects her partner has
+HIV, she often cannot risk losing his
+support by refusing sex, or insisting on
+condom use. She would be breaking the
+"conspiracy of silence" that surrounds
+extramarital sex by either partner.
+Although some men may agree to use
+condoms, others react with anger,
+violence and abandonment.
+• STDs and HIV: Because STDs carry a
+heavy social stigma (especially for
+women), women tend to avoid STD clinics
+and treatment. Women are often
+socialized to accept ill health and
+especially "women's troubles" as their lot
+in life.
+• HIV and prostitution: Prostitutes have
+little power to protect themselves from
+HIV. Women often turn to prostitution as
+an alternative to poverty. Many sex
+workers risk violence or loss of income if
+they request the use of condoms,
+however, some commercial sex workers
+have found ways to negotiate condom
+use. These sex workers wait until the
+client is erect, and then demand condom
+use. At this stage, the men usually
+conform.
+The Counsellor's Role In Fostering
+Empowerment
+Women's vulnerability comes from lack of
+power and control over their risk of HIV.
+Although counsellors cannot take on the
+whole role of promoting empowerment for
+women, they can act as an important resource
+and role model to others. Strategies for
+fostering empowerment in women include:
+• Combating Ignorance: Promote the
+improvement in education for women,
+including education about their bodies,
+STDs and AIDS. Women and girls can
+also learn the skills to say no to unwanted
+or unsafe sex. Provide women-friendly
+services.
+• Ensuring girls and women have access
+to appropriate health and HIV/STD
+prevention and care services: These
+services should be at places and times
+that are convenient and acceptable to
+them. Promote voluntary testing and
+counselling, and teach about condom use.
+Make these services easily available
+without embarrassment.
+• Building safer norms: Support women's
+groups and community organizations in
+questioning behavioural traditions that
+have become deadly in the AIDS
+epidemic. Educate boys and to respect
+girls and women, and to engage in
+responsible sexual behaviour.
+• Reinforcing women's economic
+independence: Encourage and
+strengthen existing training, education and
+employment opportunities for women.
+Counselling for HIV/AIDS 54
+Mother to Child Transmission of HIV
+Mother to child transmission (MTCT) of HIV is the
+major means of HIV infection in children. Without
+preventive treatment, up to 40% of children born to
+HIV-positive women will be infected. Of those who are
+infected through MTCT, it is believed that about 2/3
+are infected during pregnancy and around the time of
+delivery, and about 1/3 are infected through breastfeeding.
+Most of the transmission in pregnancy occurs
+at the time of labour and delivery (more than 60%).
+Using the most widely available tests it is not possible
+to tell whether a newborn infant has already been
+infected with HIV. The child of an infected mother may
+have maternal antibodies in his/her blood until 18
+months of age. Therefore, testing cannot be used to
+help make decisions about whether or not to breastfeed
+the baby.
+Counselling Strategies: Counsellors can play an
+important role in preventing HIV transmission to sexual
+partners and children. Certain issues are important to
+consider in counselling women, couples and families.
+Table 4 provides a checklist for counselling pregnant
+women.
+Counselling Women
+It is often preferable for women counsellors to counsel
+women. It is especially important to help the woman
+feel safe in the counselling session. Counselling an
+infected woman should take into consideration how
+she has learned of her condition. A woman often
+discovers her infection by accident; sometimes after
+her husband, or child show symptoms of HIV infection.
+The first concern addressed by many women is the
+concern they have for their children. The counsellor
+should understand that the woman is dealing with two
+crises; the crisis of her husband or child's illness, and
+her own feelings and emotions. In addition, if the
+woman discovers that she is HIV-positive, she has the
+stress of disclosing this news to her partner and family.
+Anger, fear, and guilt are common feelings
+experienced by HlV-infected women (see Chapter 4 for
+counselling strategies to assist the woman). Even if the
+woman was infected through her partner, she will need
+considerable support when disclosing her condition to
+others. HlV-infected women often feel extremely lonely
+and isolated. Fear of social stigma may compel her to
+keep the condition secret. Women fear being
+abandoned, and deprived of the support of family,
+friends and community organizations. Helping the
+woman re-establish connections with family and other
+social groups is often a major task in counselling.
+Helping women establish peer group support can also
+be an important counselling strategy.
+Couple and family Counselling
+Couple and family counselling will depend on the HIV
+status of the parents and the children. Experience has
+shown that couples and families lead a better quality of
+life, access necessary resources, and support each
+other more if they are able to fully disclose their HIV
+status, and means of transmission. This disclosure can
+be very stressful for the family, and some families
+separate as a result of this disclosure. However, with
+support from the counsellor, such disclosure is most
+often very beneficial. If either of the couple is HIVpositive,
+then unless condoms are used, there is the
+risk of infecting the other partner. Counselling about
+planned pregnancies requires sensitivity and tact. The
+couple should be counselled about the risk of HIV
+transmission to the wife, with subsequent transmission
+to the child. The counsellor must be aware of these
+risks and provide factual information to the potential
+parents in a manner that is easily understood. It will
+then be up to the parents to make an informed
+decision about whether to have a child or not.
+Similarly, if the woman is HIV infected, the couple
+should be counselled about the potential risk to the
+baby during pregnancy, labour, delivery and through
+breast feeding. It is the responsibility of the counsellor
+to provide this factual information about the risks of
+HIV transmission and then allow the potential parents
+to make an informed decision. If the woman is HIVpositive
+and is already pregnant, the counsellor can
+raise the issue of pregnancy termination. This type of
+counselling requires considerable sensitivity to the
+problems and needs of the couple. In addition, it is
+essential that the counsellor refers the couple to other
+necessary community resources, support groups and
+in particular, to medical care.
+Counselling families with an HlV-infected child requires
+considerable sensitivity. Parents usually feel guilty
+about this HIV transmission and grief at the thought of
+loosing the child. These emotions are normal and
+should be openly discussed and explored (see
+Chapter 4). Parents must be helped to deal with their
+own emotional reactions so that they can provide a
+level of stability in the home. The counsellor should
+provide practical advice about caring for the child in
+the home, or refer the family to other resources that
+are better equipped to help the family in this matter. An
+important role the counselor can
+Counselling for HIV/AIDS 55
+Pretest Counselling
+• Patients request for HIV testing
+should be honoured. She has the right to
+ask and to be taken seriously
+• Explore patient's HIV risk history and
+discuss the reasons for recommending
+test.
+• Discuss the potential for reducing risk to
+the fetus if the patient turns out to be HIV
+positive.
+• Discuss ways HIV is transmitted (anal or
+vaginal intercourse, blood transmission).
+• Explain test limitation (3-6 months
+window period).
+• Explain length of time until test result is
+available
+• Review safe sex and safe IV drug
+practices.
+• Consider psychological implications of
+testing including the anxiety she may feel
+waiting for the result.
+• Does the patient have an adequate
+support system? Someone she feels she
+can talk to if the test is positive?
+• Discuss the advisability of partner testing?
+• Obtain informed consent for test. Verbal
+consent is adequate if a short explanatory
+note is recorded in the chart.
+• A patient has the right to decline testing.
+Post-test Counselling
+It is imperative to give HIV test results in person
+and never to do so over the phone, particularly by
+leaving messages.
+Negative Test:
+• Explain test result-interpret test result (not
+infected up to 6 month previously).
+take is to encourage the family show affection to
+the child, and to treat the child as normally as
+possible. The counsellor should also encourage
+the parents to tell the child about his/her condition
+as soon as the child is able to understand and
+cope with this news. This disclosure helps the
+child adjust to his/her condition and promotes
+access to other necessary resources.
+• Discuss any need for repeat testing if at
+risk within 6 months.
+• Review healthy living and risk reduction.
+• Refer to Positive Women’s Network or AN
+Clinic if they want to talk further about
+safer sex. This can be done anonymously
+by phone if they wish.
+Positive Test:
+Necessary, first visit-counselling
+• Explain test result/provide reassurance
+about patient’s immediate safety
+(difference between HIV and AIDS).
+• Ensure support
+o Your continued support (make a
+follow-up appointment)
+o Potential support of family and
+partners. Possible disclosure
+o Availability of community support
+agencies name and phone number
+• If possible, review transmission modes
+and safer sex guidelines.
+Other important counseling at first or subsequent
+visits. Emphasize early if poor follow-up is likely.
+• Discuss health and treatment
+issues for the women herself.
+• Review risks to fetus, potential for
+treatment.
+• Reiterate patient’s rights to privacy
+and confidentiality with respect to
+medical information
+HIV Table 4: COUNSELLING CHECK LIST IN PREGNANCY
+Counselling for HIV/AIDS 56
+STRATEGIES TO INTRODUCE AND
+SUPPORT HIV COUNSELLING SERVICES
+t is often the case that little value placed on
+counselling which receives little (if any)
+financial support. As a result, counselling
+services are often fragmented, with no designated
+time or place for sessions. In addition, health care
+professionals have to fit counselling into their
+already overburdened work life, with little financial
+compensation. It is difficult for health care
+workers and other care professionals to value this
+important role when counselling is thus undervalued
+by policy makers and government officials.
+It is therefore encouraging to note that Pakistan is
+moving toward the introduction of HIV
+counselling. These counselling services will be
+available for people who wish voluntary testing
+and counselling (VCT) for an expressed issue or
+concern, and also to potential blood donors. It is
+important to note that whether the person comes
+to donate blood, or with an expressed desire for
+HIV testing, that pre-test counselling be
+performed for all people (see Chapter 6).
+However, it should also be noted that if the client
+refuses pre-test counselling, HIV testing should
+still be performed at the client's request. Although
+the pretest counselling might be slightly different
+in the case of a person requesting an HIV test,
+and those coming to donate blood, the same
+factual information is necessary in both
+circumstances. The guidelines for pre-test
+counselling are found in Chapter 6 and the issues
+related to counselling and blood donation are
+found in Chapter 7.
+In addition, all clients should be offered post-test
+counselling regardless of the result. Post-test
+counselling will be different, depending on the
+result, however, post-test counseling for all clients
+is essential to help prevent the transmission of
+HIV and to help people live healthier lives.
+Research and experience has shown that people
+who receive post-test counselling (regardless of
+the result), with adequate information (see
+Appendix F) are better motivated to make
+necessary behavioural change, access support
+and other resources, and live a better quality of
+life.
+Elements for Effective VCT Services
+Ideally, all health and social service workers
+should be trained in effective HIV counselling.
+Although this is a daunting task, it should be
+acknowledged that the more people who are
+aware of, and practice effective HIV counselling,
+the more likely will be the control of HIV
+transmission. Some particular strategies for
+consideration in the introduction and support
+counselling services include:
+• Convincing the decision makers about the
+need and value of counselling services by
+quoting evidence of services in other
+communities or countries, or starting a
+small evaluation project in your area;
+• Providing adequate financial
+compensation for counsellors;
+• Ensuring proper selection of counselling
+trainees. These people should be good
+listeners, respected by others, motivated
+and resilient and have warm and caring
+personalities;
+• Providing training workshops followed by
+supervised practice and ongoing training;
+• Providing instrumental and psychological
+support to the counsellors;
+• Attending to the location and time of
+services. The time of services should
+address accessibility for women, men,
+youth and couples. In addition, the
+location of the service could be broadened
+to include maternal and child health
+clinics, hospital out patient clinics,
+community based programs, STD and TB
+clinics etc. These locations could help
+reduce the stigma attached to an
+exclusive HIV or STD clinic.
+I
+Counselling for HIV/AIDS 57
+• Having adequate supply of condoms (with
+information on use);
+• Going to where the people are, eg.
+commercial sex workers, intravenous drug
+users, and other high risk populations;
+• Introducing educational campaigns to increase
+HIV awareness, and of counselling services;
+• Recruiting confidential, respectful and caring
+staff;
+• Providing adequate referral services eg. to
+other counsellors, laboratory testing, support
+services, treatment management,
+maternal/child health services, STD clinics,
+family planning centres etc.;
+• Setting up appropriate counseling standards
+and protocols.
+Care for the Caregiver
+There is considerable documentation to suggest that
+counsellors need ongoing support and care.
+Counselling requires sensitivity, courage, and an
+unerring trust in people to make the best decisions for
+themselves given adequate understanding and
+support. Working with people as they explore deep
+and personal emotions and issues can be draining.
+Caring for someone who is sick and dying, often in
+difficult circumstances with few resources can be very
+stressful for these counsellors. Support for the
+counsellors can be achieved by attending to the
+following:
+• The provision of counselling services and
+other forms of support.
+• Continuing education related to HIV and to
+counselling strategies and skills;
+• Peer support for the counsellors as well as
+periodic peer review of their counselling skills
+and strategies.
+Even in poorer areas where there is little financial
+support for counselling services, bureaucrats and
+policy makers should recognise the need for
+counsellor support. In addition, counsellors should be
+encouraged to seek the support they need. They
+should look to other counsellors as a source of
+support, or talk over some of their burden with their
+family and friends. These counsellors do not need to
+breech confidentiality to explore their feelings and
+frustrations with others. Only when counsellors are
+adequately cared for can they provide the necessary
+care and support to their clients.
+References
+AIDS Action: Much more than information. AHRTAG
+(29), June-August, 1995.
+AIDS and Men who have Sex with Men. UNAIDS
+technical update. UNAIDS Best Practices Collection,
+October, 1997.
+Ball, A.L (1998) Overview; Policies and Interventions
+to Stem HIV-1 Epidemics Associated with injecting
+Drug Use (in Drug Injecting and HIV Infection (G.
+Stimson; D.C Des Jarlais; &amp; A.L Ball Eds.). London:
+UCL Press.
+Blood Safety and AIDS. UNAIDS Points of View.
+UNAIDS Best Practice Collection, October, 1997.
+Connecting Lower HIV Infection Rates with Changes in
+Sexual Behaviour in Thailand: Data collection and
+comparison. UNAIDS Case Study. UNAIDS Best
+Practices Collection, June 1998.
+Counselling and HIV/AIDS. UNAIDS Technical update
+(1997) (UNAIDS Best Practices Collection), WC, 503.6
+Expanding the Global Response to HIV/AIDS Through
+Focused Action. UNAIDS Best Practice Collection: Key
+Material. UN AIDS, 98.1.
+Frohlich, J. (1998). Draft Guidelines for Community
+Home Based Care and Palliative Care for People living
+with AIDS. CERSA, MRG Pretoria, South Africa.
+Gilks, C et al. (1998). Sexual health and health care:
+Care and support for people with HIV/AIDS in
+resource-poor settings. Department of International
+Development (DFD), London.
+Guidelines for blood donor counselling on human
+immunodeficiency virus (HIV). Joint publication by the
+International Federation of Red Cross and Red
+Crescent Societies &amp; World Health Organization,
+Geneva, 1994.
+HIV and Infant Feeding: A guide for health care
+managers and supervisors.
+(WHO/FRH/NUT/CHD/98.2. UNAIDS/98.4
+UNCEF/PD/NUT(J)98-2)
+HIV and Infant Feeding: A policy statement
+developed collaboratively by UNAIDS, WHO and
+UNICEF. (UNAIDS).
+HIV policy on testing and counselling. UNAIDS
+97.2
+Keys to Counselling. AIDS ACTION Newsletter,
+(24), AHRTAG, 1994
+Counselling for HIV/AIDS 58
+Report on the global HIV/AIDS epidemic (June
+1998)
+UNAIDS/98.10-WHO/EMC/VIR/98.2-
+WHO/ASD/98.2).
+The Female Condom and AIDS. UNAIDS Point of
+View. UNAIDS Best Practices Collection, April,
+1998.
+The Public Health Approach to STD control
+UNAIDS Technical Update. UNAIDS Best
+Practices Collection, May, 1998.
+Women and AIDS: UNAIDS point of view.
+(UNAIDS Best Practice Collection. October,
+1997).
+World Health Organization, Regional Office for
+the Western Pacific (1998). Training of trainers in
+STD counselling: A course manual.
+World Health Organization (1995). Source book
+for HIV/AIDS counselling training. Global
+Programme in AIDS.
+World Health Organization (1995) HIV/AIDS
+counselling: A manual for use in training
+workshops. Global Programme in AIDS.
+World Health Organization (1993). HIV
+Prevention and Care: Teaching Modules for
+Nurses and Midwives. WHO/GPA/CNP/TMD/93.3
+Counselling for HIV/AIDS 59
+APPENDIX-A
+Date:___________ File Number:__________
+HIV ANITBODY CONSENT FORM
+Before taking this test I understand:
+• That the Human Immunodeficiency Virus (HIV) is responsible for the disease AIDS (Acquired
+Immune Deficiency Syndrome)
+• This test is to detect antibodies, which the body forms if it has been infected by the AIDS Virus
+(HIV).
+• That it may require up to 6 months after infection with the virus for antibodies to show in the test.
+• THIS ANTIBODY TEST IS NOT DIAGNOSTIC OF THE DISEASE AIDS
+I have read the "HIV Antibody Testing" brochure, my questions about the test have been answered and I
+consent to return in person to receive my test results from one of the healthcare workers/counsellors or
+physicians in the clinic
+I understand the significance of this test and take it voluntarily.
+__________________________ __________________________
+Name Signature
+__________________________ __________________________
+Address Telephone Number
+__________________________ __________________________
+Name of Witness Signature of Witness
+__________________________ __________________________
+Name of Witness Signature of Witness
+I have received my HIV Antibody Test results. I want my tests forwarded to my physician, named below.
+__________________________ __________________________
+Name Witness
+__________________________ __________________________
+Signature of Client Signature of Witness
+__________________________ __________________________
+Name of Physician Address
+__________________________ __________________________
+Telephone Number Postal Code
+Counselling for HIV/AIDS 60
+APPENDIX-B
+SUGGESTED OPEN-ENDED QUESTIONS FOR HIV
+COUNSELLING
+INTRODUCTION/RISK ASSESSMENT
+• How are you today?
+• Tell me a little about why you
+came in.
+• What brings you here
+today/tonight?
+• Who do you think will know you
+were here today?
+• What does confidentiality means to
+you?
+• When were you last tested?
+• Why do you want to be tested?
+• What makes you think you should
+take the test?
+• What has happened that makes
+you feel you need to be tested?
+• What role did a friend or a sex
+partner play in you coming in for
+the test?
+• What do you know about how
+AIDS or HIV is transmitted?
+• Tell me what you know about the
+virus that causes AIDS
+• Tell me what you know about the
+antibody test for HIV.
+• What do you know about the test
+for HIV?
+• How do you think the virus is
+passed from one person to
+another?
+• Tell me what else you know about
+HIV.
+• What does putting yourself at risk
+means to you?
+• How has your health been?
+• When's the last time you were
+treated for a sexually transmitted
+disease?
+• What types of sex do you have?
+• How many different people do you
+have sex with?
+• What medications are you taking?
+• How much do know about the risk
+factors or lifestyles of the people
+you are having sex with?
+• How many people are they having
+sex with
+• How often do they shoot up drugs
+or take other illicit drugs?
+• When was the last time you had
+unprotected sex?
+• What does sex means to you?
+• How sure are you about whether
+or not any of your sex partners are
+infected?
+• How would you describe your risk
+of being exposed
+REDUCE RISK
+• Tell me what you do now to reduce
+your risk of infection?
+• How often have you used
+condoms in the past?
+• What kind of problems do you
+have using condoms?
+• What do you believe in safe sex?
+• How do you think you will protect
+yourself from getting this infection?
+• When's the last time you used
+condoms?
+• Tell me what kind of condoms to
+get and how to use them.
+• How would your sexual
+behaviour have to change to stay
+safe?
+• What do you do for birth control?
+• What do you think you can do to
+avoid HIV infection?
+• What are you going to do to
+staying safe?
+• How often do you use a condom
+with your steady sex partner?
+• How do you normally go about
+discussing condoms with a
+potential sex partner?
+• How successful have you
+been in getting partners to use
+condoms?
+Counselling for HIV/AIDS 61
+• When do you have the most
+difficulty in discussing condoms
+with your partners?
+ASSESS COPING SKILLS/EFFECT
+A CLEAR DECISION/CONCLUSION
+• How will the waiting time be for
+you?
+• What are some things you can do
+while waiting for the test results?
+• Who can you talk to about this
+while you are waiting for your test
+results?
+• What do you expect the test result
+to be?
+• What would a negative test mean
+to you? "
+• What do you think you will do if
+your test is negative?
+• Who will you tell about the test
+results?
+• What does a positive test means to
+you?
+• What change will you make if your
+test result is positive?
+• What concerns do you
+have about confidentiality?
+• What does anonymous testing
+mean to you?
+• How would you prefer to have the
+test done?
+• How would your drug use practices
+have to change to stay safe?
+• When are you coming back for
+your test result?
+• What else I can do for you?
+• What questions or concerns do
+you have?
+• What problems will you have
+telling your spouse or steady sex
+partner(s) about your infection?
+• What steps can you take regarding
+your drug use to improve your
+chances of remaining free of the
+virus?
+Counselling for HIV/AIDS 62
+APPENDIX-C
+PRE-TEST COUNSELLING VISIT
+Date:__________________________ Previous HIV test: ________________ (date)____________
+Patient's initials: ___________________________ ( ) M () F ____________________
+(result)____________________________________
+D.O.B. _______________________ Identification No. ________________ Ethnic Group_________
+PRESENT HEALTH INFORMATION:
+General Health _________________ Unexplained Changes______________________
+Partner Self Partner Self Date last Risk
+Heterosexual _________________ Blood transfusion ________________ __________________
+MSM _________________ Blood Product ________________ __________________
+CSW _________________ Occupational ________________ __________________
+_________________ Exposure ________________ __________________
+From Endemic
+_________________ Area ________________ _________________
+_________________ HIV+/AIDS ________________ __________________
+IDU _______________
+Date Last Shared _______________
+Drugs Used _______________
+YES NO Date Last
+Risk
+Sexually Active _______________ # partners last 6 months _______________
+Vaginal Sex _______________ # partners last 2 months _______________
+Oral Sex _______________ # partners life _______________
+Sex Toys _______________ Condoms A S N
+_______________
+Shared razor blades _______________ YES NO DATE
+Tooth brush _______________
+Nail files
+Hepatitis B bld work _______________ STD Check UP _______________
+Hepatitis B Vaccine ______________( # doses) Syphilis Check _______________
+Previous STD _______________
+COUNSELLING HAS TAKEN PLACE REGARDING:
+( ) Content of Brochure ( ) Window Period ( ) Transmission
+( ) Safe sex/Condom Use ( ) Interpretation of Result ( ) Follow Up Counselling Suggested
+( ) IV Needle Cleaning
+Risk Not Covered By Today's Tests Recommended Date of Test
+_______________________ ___________________
+_______________________ ___________________
+Support system In Event Test Reactive/Positive
+Counselling for HIV/AIDS 63
+Have you thought of what you would do/how feel if your test was positive?
+If positive you will need to develop a personal/community/medical support system
+* Code: MSM-men sex men *CSW- commercial sex worker * IDU-injecting drug user
+Counselling for HIV/AIDS 64
+APPENDIX-D
+POST TEST COUNSELLING VISIT
+Date:_____________________ Result:________________________
+Counselling has taken place regarding:
+() Test Result () Lifestyle Modifications
+() Interpretation of Result () Safe Sex
+() Repeat Testing () Pregnancy
+() Infectivity () Blood/Organ Donations
+() Informing Health Care Attendant () By Self
+Notification of Sexual Partners () By Health Care Worker
+If Positive +*
+Date of Follow-up Appointments:_______________________________________________________
+Referrals:
+Comments:
+* IF HIV POSITIVE - Specify in notes
+Counselling for HIV/AIDS 65
+APPENDIX-E
+PARTNER NOTIFICATION FORM
+You have tested positive (reactive) for antibodies
+to HIV. You can help prevent HIV from being
+transmitted to others by making sure that your
+past and present partners are notified that they
+may have had a contact with HIV. This applies to
+all sexual partners with whom you have had
+unprotected sex (anal, vaginal or oral sex without
+using a latex condom) as well as anyone with
+whom you may have shared needles or syringes.
+If you know approximately when you were
+infected, notify all partners you have had since
+that date. If you do not know when you were
+infected, discuss notification with you counsellor
+or health care worker.
+YOUR PARTNERS CAN BE NOTIFIED BY:
+• Yourself, in person (with or without the
+assistance of your health care worker, or
+HIV counsellor), by telephone or by letter.
+• ANONYMOUSLY, by filling out this
+Partner Notification Form.
+Mail or deliver this form
+to:____________________
+OR
+Mail or deliver this form to your local health unit.
+You may decide to notify some partners
+personally, and use this form for others. Your
+confidentiality will be protected as there is no
+need for you to put your name on this form.
+YOU CAN PREPARE FOR PARTNER
+NOTIFICATION BY:
+• Emotionally preparing yourself by
+anticipating partner responses.
+• Seeking assistance and advice from
+someone knowledgeable about HIV
+infection.
+• Notifying in a confidential, safe setting,
+free from interruptions.
+• Notifying all partners as soon as possible.
+• Reminding partners that being HIV
+positive is not a diagnosis of AIDS.
+• Providing information brochures and
+referral services names and numbers.
+Encourage partners to reduce their risks of HIV
+transmission and to access information,
+counselling and possible testing through STD
+control clinic, health unit/Clinic, doctor, blood
+donor centre, or other HIV testing facilities.
+NAME
+SEX
+AGE
+ADDRESS
+PHONE
+NUMBER
+DATE OF MOST
+RECENT SEX/
+BLOOD CONTACT
+Counselling for HIV/AIDS 66
+APPENDIX-F
+CLIENT INFORMATION
+GUIDELINES FOR SOMEONE WHO IS HIV
+POSITIVE
+WHAT DOES BEING HIV POSITIVE MEAN?
+Your blood shows antibodies to HIV (human
+immunodeficiency virus). This means that you are
+carrying this virus and can pass HIV on to others
+through sexual and/or blood contact and through
+breast milk. This is called being reactive to HIV
+and is sometimes referred to as being HIV
+positive. Being HIV positive does not mean that
+you have the disease AIDS.
+WHAT IS THE NEXT STEP?
+The management of HIV changed in 1996.
+Currently all newly diagnosed HIV positive
+persons are encouraged to get a medical
+assessment done by the doctor. In some places,
+a viral load test can be done which will measure
+the amount of HIV in your blood. This test along
+with other blood tests and a complete medical
+examination will aid your doctor in recommending
+whether the time is right for you to be considering
+treatment. Treatment is expensive, and
+unfortunately, not available to everyone. Testing
+for tuberculosis is recommended when the person
+is HIV positive. There are several vaccinations for
+other communicable diseases, which should be
+considered at this time. It is important to have a
+physician who will work with you to coordinate
+your case.
+Additional confidential support (both medical and
+emotional) is available from your local health unit.
+ARE THERE WAYS TO PREVENT THE
+SPREAD OF THIS INFECTION?..YES!
+Practice Safer Sex
+Avoid unprotected anal, vaginal and oral sex.
+Always use latex condoms. (Latex condom when
+properly used, significantly reduces transmission
+of sexually transmitted disease including HIV)
+Use unlubricated condoms for oral sex. Plastic
+wrap and dental dams or latex gloves can be
+used as a barrier from vaginal secretions and
+blood when performing oral sex on a woman.
+HIV is transmitted by exposure to infected semen,
+vaginal secretions and blood. The risk of passing
+on HIV to a sexual partner increases if the partner
+has open sores, cuts, inflamed or bleeding
+membranes, herpes lesions or other sexually
+transmitted diseases.
+You won't infect others by touching or hugging. If
+you have questions about the kind of contact that
+are safe ask a health care worker or HIV
+counsellor.
+ALSO
+Consult with your doctor about pregnancy. If
+you are pregnant, inquire about medications that
+might be available to decrease the risk of HIV
+transmission from you to your unborn baby.
+Do not share your needle or syringes if you
+inject drugs. Call your local health unit for
+information on needle exchanges and on
+treatment programs.
+Do not donate blood, sperm, tissue, bone
+marrow, organs or breast milk. If you have
+been a donor in the past, please advise your
+doctor so that the agencies receiving the
+donations can be contacted.
+Advise health and dental caregivers to take
+blood and body fluid precautions or tell them you
+have tested positive for HIV.
+NOTIFY ANY PARTNERS THAT YOU HAVE
+HAD UNPROTECTED SEX WITH OR ANY
+PERSONS WHO YOU HAVE SHARED A
+NEEDLE WITH. TELL THEM THEY MAY BE
+HAVE BEEN EXPOSED TO HIV AND SHOULD
+CONSIDER HAVING AN HIV ANTIBODY TEST.
+Counselling for HIV/AIDS 67
+LOVING CAREFULLY
+PREVENTION: HOW DO I AVOID GETTING A
+SEXUAUY TRANSMITTED DISEASE?
+There are two ways to avoid getting infected by a
+sexually transmitted disease.
+1. ABSTINENCE This means choosing not to
+have sexual intercourse. You
+can still share a very loving
+and caring relationship with
+someone without having sex.
+2. CONDOMS If you are sexually active you
+need to use a latex condom
+correctly every time you have
+intercourse. It only takes
+once to catch a disease or
+get pregnant.
+AIDS is caused by the HIV virus, which attacks
+the body's immune system making it susceptible
+to common infections and unusual cancers. The
+AIDS virus is present in blood, semen and vaginal
+secretions. It can be spread by:
+• Sexual contact with an infected person
+• Sharing contaminated needles and
+syringes
+• An infected mother to infant eg. at birth or
+by breast-feeding.
+Symptoms: Persistent unexplained fever,
+night sweats, weight loss,
+diarrhoea, swollen glands,
+extreme fatigue, and skin
+rashes. Unfortunately the
+person is contagious after
+becoming infected with the
+disease, long before the
+symptoms occur.
+Complications: Kaposi's Sarcoma and other
+forms of cancer, pneumonia,
+blindness, deteriorating mental
+state, overwhelming infections.
+Treatment: At this time there is no cure for
+AIDS. It is critical to take
+protective measures, eg. using
+latex condoms, to prevent
+infection by this virus.
+Steps To Take If You are HIV Positive
+If you tested positive on the HIV antibody test,
+this newsletter is for you. It will tell you what you
+can do to slow down the virus and protect your
+health and the health of others.
+Testing positive means that you have been
+infected with HIV, the virus that causes AIDS.
+People who are HIV-positive may develop AIDS
+in the future.
+The most important steps are:
+• Getting emotional support.
+• Getting good medical care.
+• Keeping healthy habits.
+Emotional Support
+Emotional support is the help that you receive
+from other people. If you get emotional support,
+you won't feel so alone dealing with HIV.
+When you find out that you are HIV-positive, it
+can be very tough. You may feel lonely, angry,
+depressed, or afraid of getting sick. These are
+very common feelings among people who test
+positive.
+Some people who are HIV-positive discuss their
+feelings with their friends, family, or lovers. Others
+prefer to see a personal counsellor and get
+individual support.
+Another option is to join a support group or to
+start one. A support group lets you talk to other
+people who are facing the same issues.
+Emotional support is especially helpful in the first
+few months after getting your test results. Once
+you sort out some of your feelings, you can start
+thinking about what you can do to keep healthy.
+Some people who test positive feel the need to
+start doing something right away to stop the virus.
+Others may feel there is nothing they can do
+against HIV infection. The truth is there is a lot
+that can be done to improve your chances of
+staying healthy. Most people who are HIVpositive
+live with no symptoms for many years
+after being infected. Some of them have been
+healthy for more than eleven years.
+Counselling for HIV/AIDS 68
+Medical Care
+Medical care is very important in finding out
+whether the virus has caused any damage to your
+body. You may feel completely healthy now.
+However, HIV could already be hurting your
+immune system.
+Your immune system helps you fight diseases.
+HIV destroys a part of your immune system. If this
+happens, your body is open to attack from many
+diseases.
+A doctor can check how healthy you are and help
+you make decisions about treatment. Sometimes
+you won't need to see a doctor. Some hospitals
+and clinics have nurses and other medical
+persons who can work with you. The first step is
+to figure out what medical care you can get.
+Once You Have a Doctor---
+You and your doctor will need to get a general
+picture of how healthy you are. The goals are:
+• To understand what effect HIV has had on
+your immune system. Some lab tests will
+give your doctor information about how
+well your immune system is working. The
+most common test available is the Thelper
+cell count.
+• To know if you have been exposed to
+other diseases that could become
+problems in the future. Syphilis,
+tuberculosis and hepatitis-B or C are
+some examples.
+Keeping Healthy Habits
+There are some habits that may help your body
+stay healthy.
+• Eating a balanced diet
+• Getting plenty of sleep every night
+• Getting regular exercise.
+Some clinics and hospitals have staff who can
+help you choose good eating habits. If you are
+having trouble sleeping, talk to a doctor or
+counsellor.
+Habits that are not good for your health
+include:
+• Smoking
+• Drinking alcohol
+• Taking or shooting drugs.
+If you have problems with alcohol or drugs, you
+can seek help from a treatment programme or
+support group.
+There is no way to tell you what changes will work
+for you. Changing habits is a very personal
+decision. For example, some people can stop
+drinking alcohol or taking drugs altogether. Some
+people can cut down how much they drink or use
+drugs. For others, making any change is very
+hard and stressful. You will need to decide for
+yourself what habits you can change, and how
+you will change them.
+Drug Use---
+If you shoot drugs, never share your needles. If
+you have to share a needle, clean it first with
+bleach. Cleaning your needles protects both your
+partners and you. HIV, hepatitis-B &amp; C and other
+diseases can be transmitted through dirty
+needles.
+If you use other drugs, remember that they can
+alter your mood and might cause you to start
+taking risks that could harm your health. This
+includes having unsafe sex.
+If you do inject drugs and cannot get a clean
+needle and syringe each time, follow these
+important steps:
+To clean your needle, fill it with bleach and squirt
+it out. Do this again. Then fill it with water and
+squirt it out. Do this again.
+Having Sex---
+If you have sex and are HIV-positive, you need to
+protect yourself and others by always having safe
+sex. Safe sex means not letting your blood,
+semen or vaginal fluids get inside your partner.
+The safest form of sex is with a condom. Using a
+new condom each time, and disposing of the
+used one.
+When you have safe sex, you keep your sexual
+partners from getting infected. Safe sex also
+keeps you from getting re-infected with HIV and
+from catching other sexually transmitted
+Counselling for HIV/AIDS 69
+diseases. In other words, safe sex protects both
+you and your partner. The best way to have safe
+sex is to use a condom. If you have any questions
+about how to have safe sex call your local health
+care worker.
+If you need help telling a sexual partner that you
+are HIV positive, talk to a counsellor, or health
+care worker.
+Some Final Words
+Starting some of these steps will take time and
+energy. However, you can get a gain a lot from
+these changes. Protecting your health and the
+health of others can give you a sense of control
+over HIV disease and can extend your life.
+Counselling for HIV/AIDS 70
+Annex-1
+Participants of the
+Consensus Building workshop for the
+"Guidelines on Counseling for HIV/AIDS"
+Facilitator;
+Dr Aftab Asif
+Assistant Professor of Psychiatry,
+King Edward Medical College,
+Lahore
+Participants;
+Dr Rizwan Taj
+Associate Professor of Psychiatry,
+Pakistan Institute of Medical Sciences
+Islamabad
+Dr. Laeeq Mirza
+Clinical Psychologist,
+Shifa International Hospital,
+Islamabad
+Dr. Bushra Anwer
+Reproductive Health Coordinator,
+Family Planning Association of Pakistan,
+Lahore
+Dr. Ali Gauhar Durrani
+Provincial Programme Manager,
+NWFP AIDS Control Programme,
+Peshawer
+Ms. Nosheen Khan Rehman
+Professor/Director Centre for Clinical Psychology,
+Punjab University,
+Lahore
+Dr Khawja Zaki Hasan
+Professor of Psychiatry,
+Jinnah Medical College,
+Karachi
+Dr. Musarat Hussain
+Professor of Psychiatry,
+Jinnah Post Graduate Medical Centre,
+Karachi
+Dr. Riaz Bhatti
+Professor of Psychiatry,
+Fatima Jinnah Medical College
+Lahore
+Dr. Nousheen Rahman
+Director Clinical Psychology
+University of the Punjab
+Lahore
+Ms. Raheela Dawood Khan
+Clinical Psychologist,
+Rawalpindi General Hospital
+Rawalpindi.
+Counselling for HIV/AIDS 71
+Annex-II
+Participants of the workshops to Pre-test
+the
+"Guidelines on Counselling for HIV/AIDS"
+Facilitator: Dr. Aftab Asif, Assistant Professor, Department of Psychiatry, Mayo Hospital Lahore.
+List of the Participants
+Sindh:
+1. Dr. Mumtaz Qazi
+2. Dr. Quttub-ud-din
+3. Dr. Agha Nadir Ali
+4. Dr. Suresh Kumar
+5. Dr. Amanullah Khan
+6. Dr. DeedarAli
+7 Dr. Mahreen Nazar
+8. Ms. Musarrat Parveen
+9. Dr. Naseer A. Bafoch
+Balochistan;
+1. Dr. Nadeem Samad Sheikh
+2. Mr. S. Oamaruddin
+3. Dr. Abdul Malik
+4. Dr. Abdul Mannan
+5. Dr. Raft ushan Ahmed
+6. Dr. M.Ashraf
+7. Dr. Nadira Khan
+8. Ms. Raheela Durrani
+N.W.F.P.
+1. Dr. Ahmed Ali
+2. Ms. Nighat Kamdar
+3. Mr. Adrian McGee
+4. Dr. Iqbal Hussain
+5. Dr. Mussarat Khalid
+6. Dr. Ayub Khan
+Punjab;
+1. Dr. Ali Razzaq
+2. Ms. Shazia Hassan
+3. Dr. Mahmood Akhtar
+4. Mr. Arastus Attarad
+5. Dr. Talat Naheed
+6. Dr. M. Ashfaq
+B-26, Noman Heaven, Gulistan-e-Johar, Karachi.
+Medical Officer, Juvenile Jail, Karachi
+95-B, Gulshan-e-Faisal, 15* Street, Bath Island, Karachi
+Incharge STD Clinic, Surgical OPD, Civil Hospital, Karachi
+E-10, Tooba Apartment, DHA Phase II, Karachi
+C-13, Jumani Center Garden, East Karachi
+66-A, Moria Khan Goth, Airport, Karachi
+Clinical Psychologist, D-l, 1" Floor Court View Apartments, Sindh Assembly
+Court Road, Karachi
+Sr. Surgeon, Sindh Services Hospital, M.A. Jinnah Road, Karachi.
+Provincial Programme Manager, Blood Transfusion Services.
+DARES International, 15- Kasi Plaza Phase II, Zarghoon Road, Quetta
+Psychiatrist, Bolan Medical College Quetta
+Psychiatrist, DHO Hospital Pishin, Bafochistan.
+c/o Provincial Programme Manager AIDS, Balochistan.
+Pathologist, Fatima Jinnah General &amp; Chest Hospital, Quetta
+House No. 3, GOR Colony, Quetta
+Room No. 60, Third Floor, Ahmed Complex, Dr. Bano Road Quetta
+Provincial Programme Manager
+40-B, Railway Road, University Town Peshawar
+ORA International, F-27, Khushhal Khan Khattak Road, University Town,
+Peshawar
+Medical Officer Blood Bank, Lady Reading Hospital, Peshawar
+Shifa Maternity Hospital, Zaryab Road, Faqir Abad No. 2, Peshawar .
+AIDS Coordinator, New Jamrud Road, Bara Khyber Agency.
+Provincial Programme Manager
+Health Education Officer, Department of Community Medicine, Allama Iqbal
+Medical College, Lahore.
+Department of Community Medicine, Allama Iqbal Medical College Lahore
+Programme Manager Counsellino, 4/5 Saint Francis Colony Kotlukhpat,
+Lahore
+Associate Professor Medicine, KEMC, Lahore
+Consultant Physician, Medical Specialist Unit, Services Hospital Lahore
+Counselling for HIV/AIDS 72
+Annex-III
+List of the HIV/ AIDS Surveillance Centres
+FEDERAL AREAS
+1. National AIDS Referral Centre, National
+Institute of Health, Islamabad.
+2. Federal Government Services
+Hospital, Islamabad.
+3. Pakistan Institute of Medical
+Sciences, Islamabad.
+4. DHO Hospital, Skurdu.
+5. DHO Hospital, Gilgit.
+PUNJAB
+6. Armed Forces Institute of
+Pathology, Rawalpindi.
+7. T.B. Centre, Rawalpindi.
+8. The department of microbiology, Shaikh
+Zayed Hospital, Lahore.
+9. The department of Pathology, Holy Family
+Hospital, Rawalpindi.
+10. The department of Pathology, Rawalpindi
+Medical College, Rawalpindi.
+11. Institute of Punjab Blood
+Transfusion Services, Lahore.
+12. The department of Pathology, College of
+Community Medicine, Lahore.
+13. The department of Pathology,
+Services Hospital, Lahore.
+14. The Medical Superintendent, DHQ
+Hospital, Dera Ghazi Khan.
+15. The Medical Superintendent, DHO
+Hospital, Chakwal.
+16. The Medical Superintendent, B.V.
+Hospital, Bahawalpure.
+17. The Department of Pathology,
+Nishter Medical College, Multan.
+18. Sanitarium Hospital, Murree.
+SINDH
+19. Jinnah Postgraduate Medical
+Centre, Karachi.
+20. Government Seamen's Dispensary
+Port Health Department, Karachi.
+21. AIDS Control Programme Services
+Hospital Indoor Block, MA. Jinnah Road,
+Karachi.
+22. Institute of Skin Diseases, Preedy
+Street Regal Chowk Sadar, Karchi.
+23. Liyari General Hospital, Liyari, Karachi.
+24. The department of Pathology,
+Peoples Medical College Nawabshah.
+25. The department of pathology , Chandka
+Medical College, Larkana.
+26. Civil Hospital, Mirpur Khas.
+27. The department of pathology, Liaquat
+Medical College, Jamshoro.
+28. Civil Hospital, Sukkur.
+NWFP
+29. The department of Pathology, Lady
+reading Hospital, Peshawar.
+30. The department of Pathology, Khyber
+Medical College, Peshawar.
+31. The department of Pathology,
+Ayub Medical College, Abbottabad.
+32. DHQ Hospital Saidu Sharif.
+33. DHQ Hospital, D.I. Khan.
+34. DHO Hospital Kohat.
+35. DHQ Hospital Mardan.
+BALOCHISTAN.
+36. The department of pathology, Civil
+Hospital, Quetta.
+37. Fatima Jinnah General &amp; Chest Hospital,
+Quetta
+38. DHQ Hospital Turbat.
+39. DHQ Hospital D.M Jamali.
+40. DHQ Hospital Sibi.
+41. DHQ Hospital Lorali.
+42. DHQ Hospital Khuzdar.
+43. DHQ Hospital, Gawadar.
+A.J.K.
+44. The department of Pathology (AJK),
+C.M.H, Muzaffarabad.
+45. The department of Pathology D.H.Q.
+Hospital, Mirpur,(AJK).
+Counselling for HIV/AIDS 73
+About the Co-author:
+Dr. Aftab Asif, co-author of the national guidelines on “HIV Counseling" is presently serving as assistant
+Professor of Psychiatry at the King Edward Medical College Lahore. He graduated from the same college in
+1987. In 1990 he left for England and worked in various specialties of Psychiatry under the training scheme.
+He did his MRC Psych from UK in1992.
+Dr. Aftab has almost 10 years experience of practice in the work field. In his present assignment at Mayo
+Hospital Lahore, he is activity involved in psychiatric training both at the undergraduate as well as
+postgraduate levels. Apart from medical professionals, his trainees also include psychologists and clinical
+psychiatric nurses.
+The co-author has special interest in the field of counseling for HIV/AIDS and received specialized trainings
+both at national and international levels. He is associated with HIV counselling since 1996 and has also
+been involved in the national sero-prevalence survey on HIV/AIDS conducted by the National AIDS Control
+Programme Pakistan.
+Counselling for HIV/AIDS 74
+This Publication is available from:
+National Programme Manager
+National AIDS Control Programme
+National Institute of Health,
+Islamabad.
+Ph: 051-9255096 - 9255241
+Fax: 051-9255214
+Provincial Programme Manager (AIDS)
+AIDS Control Programme
+Sindh Services, Hospital, M.A. Jinnah Road,
+Sindh - Karachi
+Ph: 021-7775959
+Fax: 021-7771753
+Provincial Programme Manager (AIDS)
+AIDS Control Programme
+Directorate General Health Services,
+Punjab - Lahore.
+Ph: 042 - 9200987
+Fax: 042-92011142
+Provincial Programme Manager (AIDS)
+AIDS Control Programme
+Eastern Bypass
+Near Fatima Jinnah General &amp; Chest Hospital,
+Quetta - Balochistan.
+Ph: &amp; Fax: 081-854182
+Provincial Programme Manager (AIDS)
+AIDS Control Programme
+Directorate General Health Services,
+NWFP, Peshawar.
+Ph: 091-921083 (Exc) 9210186 - 97
+Fax: 091 - 9210239
+Programme Manager
+AIDS Control Programme
+District Headquarter Hospital,
+Gilgit - Northern Areas,
+Ph: 0572 - 3690
+Fax: 0572 - 2500
+Programme Manager
+AIDS Control Programme,
+Directorate General Health Services,
+Muzaffarabad - AJK
+Ph: 058810 - 43030
+Fax: 058810 - 49114
+</value>
+  </data>
+</root>
