@@ -6,10 +6,6 @@ Windows application for Clinic Registration System
 Windows application for Clinic Registration System
 
 
-Clinic Management System
-
-Kuzivakwashe Mavera
-
 Clinic management system is a windows application which allows users to register into the clinic system for the first time. It allows them to access or register for different services the clinic might offer and then outputs the costs of the services. In an instance one may want more than one service, adds up the individual costs and gives the final cost at the end tip.
 
 Time spent: 1 month in total
